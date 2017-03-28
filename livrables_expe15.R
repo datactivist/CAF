@@ -91,7 +91,7 @@ tm_shape(paris15_osm) +
     tm_squares(col = "red") +
     tm_text(text = "Gestionnaire demandeur", just = c("right", "bottom"), xmod = -0.5, size = 0.7) +
   tm_layout(title = "LAEP et REAAP dans le 15e arrondissement", title.position = c("RIGHT", "TOP"), scale = 2, attr.outside.position = "bottom", attr.outside = TRUE) +
-  tm_credits(text = "Source : CAF de Paris. Réalisation : École des données/OKF pour la CAF. Map tiles by Carto, under CC BY 3.0. Data by OpenStreetMap, under ODbL.")
+  tm_credits(text = "En bleu : LAEP. En rouge : REAAP. \nSource : CAF de Paris. Réalisation : École des données/OKF pour la CAF. Map tiles by Carto, under CC BY 3.0. Data by OpenStreetMap, under ODbL.")
 dev.off()
 dev.off()
 
@@ -112,7 +112,7 @@ tm_shape(paris15_osm_dark) +
   tm_squares(col = "red") +
   tm_text(text = "Gestionnaire demandeur", just = c("right", "bottom"), xmod = -0.5, col = "#d3d3d3", size = 0.7) +
   tm_layout(title = "LAEP et REAAP dans le 15e arrondissement", title.position = c("RIGHT", "TOP"), scale = 2, attr.outside.position = "bottom", attr.outside = TRUE, title.color = "#A8A8A8") +
-  tm_credits(text = "Source : CAF de Paris. Réalisation : École des données/OKF pour la CAF. Map tiles by Carto, under CC BY 3.0. Data by OpenStreetMap, under ODbL.")
+  tm_credits(text = "En bleu : LAEP. En rouge : REAAP. \nSource : CAF de Paris. Réalisation : École des données/OKF pour la CAF. Map tiles by Carto, under CC BY 3.0. Data by OpenStreetMap, under ODbL.")
 dev.off()
 dev.off()
 
