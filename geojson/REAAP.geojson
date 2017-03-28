@@ -1,0 +1,2469 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "13 pour Tous",
+        "n° de rue": "4",
+        "nom de rue": "Place de Vénétie",
+        "code_postal": 75013,
+        "ville": "PARIS",
+        "code iris": 5003,
+        "Nbre d'actions": 1,
+        "adresse": "4 Place de Vénétie PARIS",
+        "result_label": "4 Place de Venetie 75013 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270825933",
+        "result_housenumber": "4",
+        "result_name": "Place de Venetie",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.36471, 48.820365]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Accueil Goutte d'Or",
+        "n° de rue": "26",
+        "nom de rue": "rue de Laghouat",
+        "code_postal": 75018,
+        "ville": "PARIS",
+        "code iris": 7105,
+        "Nbre d'actions": 1,
+        "adresse": "26 rue de Laghouat PARIS",
+        "result_label": "26 Rue de Laghouat 75018 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270716202",
+        "result_housenumber": "26",
+        "result_name": "Rue de Laghouat",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.354237, 48.887879]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "ACEPPRIF",
+        "n° de rue": "120",
+        "nom de rue": "rue des Grands Champs",
+        "code_postal": 75020,
+        "ville": "PARIS",
+        "code iris": 8007,
+        "Nbre d'actions": 1,
+        "adresse": "120 rue des Grands Champs PARIS",
+        "result_label": "120 Rue des Grands Champs 75020 Paris",
+        "result_score": 0.8,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270783623",
+        "result_housenumber": "120",
+        "result_name": "Rue des Grands Champs",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.408098, 48.851964]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "ACORT",
+        "n° de rue": "2bis",
+        "nom de rue": "rue Bouchardon",
+        "code_postal": 75010,
+        "ville": "PARIS",
+        "code iris": 3905,
+        "Nbre d'actions": 2,
+        "adresse": "2bis rue Bouchardon PARIS",
+        "result_label": "2 BIS Rue Bouchardon 75010 Paris",
+        "result_score": 0.69,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270750779",
+        "result_housenumber": "2 BIS",
+        "result_name": "Rue Bouchardon",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.356972, 48.869486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "ACPP",
+        "n° de rue": "21bis",
+        "nom de rue": "rue Jean Leclaire",
+        "code_postal": 75017,
+        "ville": "PARIS",
+        "code iris": 6810,
+        "Nbre d'actions": 1,
+        "adresse": "21bis rue Jean Leclaire PARIS",
+        "result_label": "21 BIS Rue Jean Leclaire 75017 Paris",
+        "result_score": 0.72,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000312912427",
+        "result_housenumber": "21 BIS",
+        "result_name": "Rue Jean Leclaire",
+        "result_street": null,
+        "result_postcode": 75017,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.32607, 48.89484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "AEPCR",
+        "n° de rue": "77",
+        "nom de rue": "rue Alexandre Dumas",
+        "code_postal": 75020,
+        "ville": "PARIS",
+        "code iris": 8026,
+        "Nbre d'actions": 2,
+        "adresse": "77 rue Alexandre Dumas PARIS",
+        "result_label": "77 Rue Alexandre Dumas 75020 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270777392",
+        "result_housenumber": "77",
+        "result_name": "Rue Alexandre Dumas",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.398036, 48.854954]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "AFC Saint-Pierre Saint Dominique",
+        "n° de rue": "26",
+        "nom de rue": "rue du Commandant René Mouchotte",
+        "code_postal": 75014,
+        "ville": "PARIS",
+        "code iris": 5624,
+        "Nbre d'actions": 1,
+        "adresse": "26 rue du Commandant René Mouchotte PARIS",
+        "result_label": "26 Rue du Commandant René Mouchotte 75014 Paris",
+        "result_score": 0.82,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270805405",
+        "result_housenumber": "26",
+        "result_name": "Rue du Commandant René Mouchotte",
+        "result_street": null,
+        "result_postcode": 75014,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.319565, 48.838569]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "AFF15",
+        "n° de rue": "65",
+        "nom de rue": "rue de la Fédération",
+        "code_postal": 75015,
+        "ville": "PARIS",
+        "code iris": 5917,
+        "Nbre d'actions": 1,
+        "adresse": "65 rue de la Fédération PARIS",
+        "result_label": "65 Rue de la Fédération 75015 Paris",
+        "result_score": 0.79,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270780614",
+        "result_housenumber": "65",
+        "result_name": "Rue de la Fédération",
+        "result_street": null,
+        "result_postcode": 75015,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.296385, 48.853288]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "AFRIQUE CONSEIL",
+        "n° de rue": "55",
+        "nom de rue": "rue du Château d'eau",
+        "code_postal": 75010,
+        "ville": "PARIS",
+        "code iris": 3904,
+        "Nbre d'actions": 1,
+        "adresse": "55 rue du Château d'eau PARIS",
+        "result_label": "55 Rue du Château d'Eau 75010 Paris",
+        "result_score": 0.79,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270744031",
+        "result_housenumber": "55",
+        "result_name": "Rue du Château d'Eau",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.35551, 48.872355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "AGAPA",
+        "n° de rue": "42",
+        "nom de rue": "rue Saint Lambert",
+        "code_postal": 75015,
+        "ville": "PARIS",
+        "code iris": 5711,
+        "Nbre d'actions": 1,
+        "adresse": "42 rue Saint Lambert PARIS",
+        "result_label": "42 Rue Saint-Lambert 75015 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270808856",
+        "result_housenumber": "42",
+        "result_name": "Rue Saint-Lambert",
+        "result_street": null,
+        "result_postcode": 75015,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.292683, 48.836713]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "AGENCE DU COURT METRAGE",
+        "n° de rue": "77",
+        "nom de rue": "rue des Cévennes",
+        "code_postal": 75015,
+        "ville": "PARIS",
+        "code iris": 6022,
+        "Nbre d'actions": 1,
+        "adresse": "77 rue des Cévennes PARIS",
+        "result_label": "77 Rue des Cevennes 75015 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000340137495",
+        "result_housenumber": "77",
+        "result_name": "Rue des Cevennes",
+        "result_street": null,
+        "result_postcode": 75015,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.282389, 48.841665]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "ALPC",
+        "n° de rue": "21",
+        "nom de rue": "rue des 4 Frères Peignot",
+        "code_postal": 75015,
+        "ville": "PARIS",
+        "code iris": 6015,
+        "Nbre d'actions": 4,
+        "adresse": "21 rue des 4 Frères Peignot PARIS",
+        "result_label": "21 Rue des 4 Frères Peignot 75015 Paris",
+        "result_score": 0.8,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000312907751",
+        "result_housenumber": "21",
+        "result_name": "Rue des 4 Frères Peignot",
+        "result_street": null,
+        "result_postcode": 75015,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.282719, 48.845681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "AOCSA La 20è chaise",
+        "n° de rue": "38",
+        "nom de rue": "rue des Amandiers",
+        "code_postal": 75020,
+        "ville": "PARIS",
+        "code iris": 7910,
+        "Nbre d'actions": 1,
+        "adresse": "38 rue des Amandiers PARIS",
+        "result_label": "38 Rue des Amandiers 75020 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270760365",
+        "result_housenumber": "38",
+        "result_name": "Rue des Amandiers",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.389826, 48.864882]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "APASO",
+        "n° de rue": "6",
+        "nom de rue": "rue Auguste Cain",
+        "code_postal": 75014,
+        "ville": "PARIS",
+        "code iris": 5505,
+        "Nbre d'actions": 2,
+        "adresse": "6 rue Auguste Cain PARIS",
+        "result_label": "6 Rue Auguste Caïn 75014 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000312907952",
+        "result_housenumber": "6",
+        "result_name": "Rue Auguste Caïn",
+        "result_street": null,
+        "result_postcode": 75014,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.321115, 48.825873]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "APATE",
+        "n° de rue": "27-29",
+        "nom de rue": "avenue Philippe Auguste",
+        "code_postal": 75011,
+        "ville": "PARIS",
+        "code iris": 4409,
+        "Nbre d'actions": 1,
+        "adresse": "27-29 avenue Philippe Auguste PARIS",
+        "result_label": "29 Avenue Philippe-Auguste 75011 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270784632",
+        "result_housenumber": "29",
+        "result_name": "Avenue Philippe-Auguste",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.393804, 48.851405]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "ARBRE BLEU (l')",
+        "n° de rue": "52",
+        "nom de rue": "rue Polonceau",
+        "code_postal": 75018,
+        "ville": "PARIS",
+        "code iris": 7103,
+        "Nbre d'actions": 1,
+        "adresse": "52 rue Polonceau PARIS",
+        "result_label": "52 Rue Polonceau 75018 Paris",
+        "result_score": 0.74,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270719164",
+        "result_housenumber": "52",
+        "result_name": "Rue Polonceau",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.350687, 48.886001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "ARCHIPELIA",
+        "n° de rue": "17",
+        "nom de rue": "rue des Envierges",
+        "code_postal": 75020,
+        "ville": "PARIS",
+        "code iris": 7711,
+        "Nbre d'actions": 4,
+        "adresse": "17 rue des Envierges PARIS",
+        "result_label": "17 Rue des Envierges 75020 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270744682",
+        "result_housenumber": "17",
+        "result_name": "Rue des Envierges",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.386229, 48.872853]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "ARFOG LAFAYETTE",
+        "n° de rue": "83",
+        "nom de rue": "rue de Sèvres",
+        "code_postal": 75006,
+        "ville": "PARIS",
+        "code iris": 2308,
+        "Nbre d'actions": 1,
+        "adresse": "83 rue de Sèvres PARIS",
+        "result_label": "83 Rue de Sevres 75006 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270787716",
+        "result_housenumber": "83",
+        "result_name": "Rue de Sevres",
+        "result_street": null,
+        "result_postcode": 75006,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.322827, 48.849459]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "ARIANA",
+        "n° de rue": "15",
+        "nom de rue": "rue Hélène",
+        "code_postal": 75017,
+        "ville": "PARIS",
+        "code iris": 6701,
+        "Nbre d'actions": 1,
+        "adresse": "15 rue Hélène PARIS",
+        "result_label": "15 Rue Hélène 75017 Paris",
+        "result_score": 0.71,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270719374",
+        "result_housenumber": "15",
+        "result_name": "Rue Hélène",
+        "result_street": null,
+        "result_postcode": 75017,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.324695, 48.886217]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "ESPACE UNIVERSEL",
+        "n° de rue": "42",
+        "nom de rue": "rue de l'Echiquier",
+        "code_postal": 75010,
+        "ville": "PARIS",
+        "code iris": 3803,
+        "Nbre d'actions": 1,
+        "adresse": "42 rue de l'Echiquier PARIS",
+        "result_label": "42 Rue de l'Échiquier 75010 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270745021",
+        "result_housenumber": "42",
+        "result_name": "Rue de l'Échiquier",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.348662, 48.871911]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "ATD QUART MONDE",
+        "n° de rue": "27",
+        "nom de rue": "rue Saint Fargeau",
+        "code_postal": 75020,
+        "ville": "PARIS",
+        "code iris": 7813,
+        "Nbre d'actions": 1,
+        "adresse": "27 rue Saint Fargeau PARIS",
+        "result_label": "27 Rue Saint-Fargeau 75020 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270745541",
+        "result_housenumber": "27",
+        "result_name": "Rue Saint-Fargeau",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.40187, 48.871699]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "ATNT 18",
+        "n° de rue": "30",
+        "nom de rue": "rue Hermel",
+        "code_postal": 75018,
+        "ville": "PARIS",
+        "code iris": 7021,
+        "Nbre d'actions": 2,
+        "adresse": "30 rue Hermel PARIS",
+        "result_label": "30 Rue Hermel 75018 Paris",
+        "result_score": 0.72,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270710528",
+        "result_housenumber": "30",
+        "result_name": "Rue Hermel",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.345185, 48.892567]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "CAFEZOIDE",
+        "n° de rue": "92bis",
+        "nom de rue": "quai de la Loire",
+        "code_postal": 75019,
+        "ville": "PARIS",
+        "code iris": 7304,
+        "Nbre d'actions": 1,
+        "adresse": "92bis quai de la Loire PARIS",
+        "result_label": "92 BIS Quai de la Loire 75019 Paris",
+        "result_score": 0.71,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270717421",
+        "result_housenumber": "92 BIS",
+        "result_name": "Quai de la Loire",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.379255, 48.88742]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "CARREFOUR 14 Centre social Didot",
+        "n° de rue": "29",
+        "nom de rue": "Boulevard Brune",
+        "code_postal": 75014,
+        "ville": "PARIS",
+        "code iris": 5605,
+        "Nbre d'actions": 1,
+        "adresse": "29 Boulevard Brune PARIS",
+        "result_label": "29 Boulevard Brune 75014 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270820415",
+        "result_housenumber": "29",
+        "result_name": "Boulevard Brune",
+        "result_street": null,
+        "result_postcode": 75014,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.30782, 48.827345]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "CECCOF",
+        "n° de rue": "96",
+        "nom de rue": "avenue de la République",
+        "code_postal": 75011,
+        "ville": "PARIS",
+        "code iris": 4202,
+        "Nbre d'actions": 1,
+        "adresse": "96 avenue de la République PARIS",
+        "result_label": "96 Avenue de la République 75011 Paris",
+        "result_score": 0.8,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270762097",
+        "result_housenumber": "96",
+        "result_name": "Avenue de la République",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.38188, 48.86372]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "CEFIA",
+        "n° de rue": "102",
+        "nom de rue": "rue de la Jonquière",
+        "code_postal": 75017,
+        "ville": "PARIS",
+        "code iris": 6814,
+        "Nbre d'actions": 1,
+        "adresse": "102 rue de la Jonquière PARIS",
+        "result_label": "102 Rue de la Jonquière 75017 Paris",
+        "result_score": 0.79,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270707871",
+        "result_housenumber": "102",
+        "result_name": "Rue de la Jonquière",
+        "result_street": null,
+        "result_postcode": 75017,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.317732, 48.895044]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Centre socioculturel Belleville",
+        "n° de rue": "15bis-17",
+        "nom de rue": "rue Jules Romains",
+        "code_postal": 75019,
+        "ville": "PARIS",
+        "code iris": 7606,
+        "Nbre d'actions": 2,
+        "adresse": "15bis-17 rue Jules Romains PARIS",
+        "result_label": "17 Rue Jules Romains 75019 Paris",
+        "result_score": 0.65,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270743058",
+        "result_housenumber": "17",
+        "result_name": "Rue Jules Romains",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.377515, 48.873826]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "CERAF SOLIDARITES",
+        "n° de rue": "232",
+        "nom de rue": "rue Marcadet",
+        "code_postal": 75018,
+        "ville": "PARIS",
+        "code iris": 6916,
+        "Nbre d'actions": 1,
+        "adresse": "232 rue Marcadet PARIS",
+        "result_label": "232 Rue Marcadet 75018 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000311434486",
+        "result_housenumber": "232",
+        "result_name": "Rue Marcadet",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.331621, 48.892265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "CEREP PHYMENTIN",
+        "n° de rue": "31",
+        "nom de rue": "rue du Faubourg Poissonnière",
+        "code_postal": 75009,
+        "ville": "PARIS",
+        "code iris": 3501,
+        "Nbre d'actions": 1,
+        "adresse": "31 rue du Faubourg Poissonnière PARIS",
+        "result_label": "31 Rue du Faubourg Poissonnière 75009 Paris",
+        "result_score": 0.82,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270742372",
+        "result_housenumber": "31",
+        "result_name": "Rue du Faubourg Poissonnière",
+        "result_street": null,
+        "result_postcode": 75009,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.347802, 48.873211]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "CHINOIS DE France Français DE CHINE",
+        "n° de rue": "45",
+        "nom de rue": "rue de Tourtille",
+        "code_postal": 75020,
+        "ville": "PARIS",
+        "code iris": 7709,
+        "Nbre d'actions": 1,
+        "adresse": "45 rue de Tourtille PARIS",
+        "result_label": "45 Rue de Tourtille 75020 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270744768",
+        "result_housenumber": "45",
+        "result_name": "Rue de Tourtille",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.380264, 48.872281]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "CITHEA",
+        "n° de rue": "10",
+        "nom de rue": "rue Basfroi",
+        "code_postal": 75011,
+        "ville": "PARIS",
+        "code iris": 4307,
+        "Nbre d'actions": 1,
+        "adresse": "10 rue Basfroi PARIS",
+        "result_label": "10 Rue Basfroi 75011 Paris",
+        "result_score": 0.73,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270779187",
+        "result_housenumber": "10",
+        "result_name": "Rue Basfroi",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.380056, 48.854122]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Compagnie à l'affût chez Mr SOURY Gilbert",
+        "n° de rue": "19bis",
+        "nom de rue": "rue Tournefort",
+        "code_postal": 75005,
+        "ville": "PARIS",
+        "code iris": 1908,
+        "Nbre d'actions": 1,
+        "adresse": "19bis rue Tournefort PARIS",
+        "result_label": "19 BIS Rue Tournefort 75005 Paris",
+        "result_score": 0.69,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270798573",
+        "result_housenumber": "19 BIS",
+        "result_name": "Rue Tournefort",
+        "result_street": null,
+        "result_postcode": 75005,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.348203, 48.843448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "CONSEIL MEDIATION ET FORMATION",
+        "n° de rue": "59",
+        "nom de rue": "rue de Clignancourt",
+        "code_postal": 75018,
+        "ville": "PARIS",
+        "code iris": 7009,
+        "Nbre d'actions": 1,
+        "adresse": "59 rue de Clignancourt PARIS",
+        "result_label": "59 Rue de Clignancourt 75018 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270716860",
+        "result_housenumber": "59",
+        "result_name": "Rue de Clignancourt",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.347763, 48.887765]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "CONTACT",
+        "n° de rue": "84",
+        "nom de rue": "rue Saint Martin",
+        "code_postal": 75004,
+        "ville": "PARIS",
+        "code iris": 1302,
+        "Nbre d'actions": 1,
+        "adresse": "84 rue Saint Martin PARIS",
+        "result_label": "84 Rue Saint-Martin 75004 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270768965",
+        "result_housenumber": "84",
+        "result_name": "Rue Saint-Martin",
+        "result_street": null,
+        "result_postcode": 75004,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75104
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.350602, 48.85948]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "CRESCENDO CENTRE SOCIAL MAISON DU BAS BELLEVILLE",
+        "n° de rue": "126",
+        "nom de rue": "boulevard de Belleville",
+        "code_postal": 75020,
+        "ville": "PARIS",
+        "code iris": 7709,
+        "Nbre d'actions": 1,
+        "adresse": "126 boulevard de Belleville PARIS",
+        "result_label": "126 Boulevard de Belleville 75020 Paris",
+        "result_score": 0.8,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270745787",
+        "result_housenumber": "126",
+        "result_name": "Boulevard de Belleville",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.37749, 48.871714]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "DANUBE",
+        "n° de rue": "49bis",
+        "nom de rue": "rue du Général Brunet",
+        "code_postal": 75019,
+        "ville": "PARIS",
+        "code iris": 7517,
+        "Nbre d'actions": 2,
+        "adresse": "49bis rue du Général Brunet PARIS",
+        "result_label": "49 BIS Rue du Général Brunet 75019 Paris",
+        "result_score": 0.74,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270725782",
+        "result_housenumber": "49 BIS",
+        "result_name": "Rue du Général Brunet",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.393619, 48.882469]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Cultures sur Cour",
+        "n° de rue": "147",
+        "nom de rue": "rue de Clignancourt",
+        "code_postal": 75018,
+        "ville": "PARIS",
+        "code iris": 7020,
+        "Nbre d'actions": 1,
+        "adresse": "147 rue de Clignancourt PARIS",
+        "result_label": "147 Rue de Clignancourt 75018 Paris",
+        "result_score": 0.79,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270707601",
+        "result_housenumber": "147",
+        "result_name": "Rue de Clignancourt",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.349423, 48.895346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Dessine moi un mouton",
+        "n° de rue": "1",
+        "nom de rue": "Villa des Pyrénées",
+        "code_postal": 75020,
+        "ville": "PARIS",
+        "code iris": 8013,
+        "Nbre d'actions": 1,
+        "adresse": "1 Villa des Pyrénées PARIS",
+        "result_label": "1 Villa des Pyrénées 75020 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270780836",
+        "result_housenumber": "1",
+        "result_name": "Villa des Pyrénées",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.405556, 48.853373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "DULALA - D'une Langue à l'Autre",
+        "n° de rue": "35-37",
+        "nom de rue": "avenue de la Résistance",
+        "code_postal": 93100,
+        "ville": "MONTREUIL",
+        "code iris": 7516,
+        "Nbre d'actions": 1,
+        "adresse": "35-37 avenue de la Résistance MONTREUIL",
+        "result_label": "37 Avenue de la Résistance 93100 Montreuil",
+        "result_score": 0.74,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000268331082",
+        "result_housenumber": "37",
+        "result_name": "Avenue de la Résistance",
+        "result_street": null,
+        "result_postcode": 93100,
+        "result_city": "Montreuil",
+        "result_context": "93, Seine-Saint-Denis, Île-de-France",
+        "result_citycode": 93048
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.436761, 48.860228]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "EFA 75",
+        "n° de rue": "221",
+        "nom de rue": "rue Lafayette",
+        "code_postal": 75010,
+        "ville": "PARIS",
+        "code iris": 3701,
+        "Nbre d'actions": 2,
+        "adresse": "221 rue Lafayette PARIS",
+        "result_label": "221 Rue la Fayette 75010 Paris",
+        "result_score": 0.68,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000312903934",
+        "result_housenumber": "221",
+        "result_name": "Rue la Fayette",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.365303, 48.881581]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "EIDIP Ecoute Interculturelle dans un Dispositif Interpsy",
+        "n° de rue": "7",
+        "nom de rue": "rue de la Croix Moreau",
+        "code_postal": 75018,
+        "ville": "PARIS",
+        "code iris": 7208,
+        "Nbre d'actions": 1,
+        "adresse": "7 rue de la Croix Moreau PARIS",
+        "result_label": "7 Rue de la Croix Moreau 75018 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270707519",
+        "result_housenumber": "7",
+        "result_name": "Rue de la Croix Moreau",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.363616, 48.895816]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "EMPREINTES-VIVRE SON DEUIL",
+        "n° de rue": "7",
+        "nom de rue": "rue Taylor",
+        "code_postal": 75010,
+        "ville": "PARIS",
+        "code iris": 3904,
+        "Nbre d'actions": 1,
+        "adresse": "7 rue Taylor PARIS",
+        "result_label": "7 Rue Taylor 75010 Paris",
+        "result_score": 0.7,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270749742",
+        "result_housenumber": "7",
+        "result_name": "Rue Taylor",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.359132, 48.869777]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "ENS",
+        "n° de rue": "2",
+        "nom de rue": "rue de Torcy",
+        "code_postal": 75018,
+        "ville": "PARIS",
+        "code iris": 7207,
+        "Nbre d'actions": 1,
+        "adresse": "2 rue de Torcy PARIS",
+        "result_label": "2 Rue de Torcy 75018 Paris",
+        "result_score": 0.73,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270711919",
+        "result_housenumber": "2",
+        "result_name": "Rue de Torcy",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.365241, 48.891176]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "ENTR'AIDE",
+        "n° de rue": "53",
+        "nom de rue": "rue de l'Ourcq",
+        "code_postal": 75019,
+        "ville": "PARIS",
+        "code iris": 7314,
+        "Nbre d'actions": 1,
+        "adresse": "53 rue de l'Ourcq PARIS",
+        "result_label": "53 Rue de l'Ourcq 75019 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000312906100",
+        "result_housenumber": "53",
+        "result_name": "Rue de l'Ourcq",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.38132, 48.891054]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "EPE",
+        "n° de rue": "5",
+        "nom de rue": "impasse Bon Secours",
+        "code_postal": 75011,
+        "ville": "PARIS",
+        "code iris": 4306,
+        "Nbre d'actions": 1,
+        "adresse": "5 impasse Bon Secours PARIS",
+        "result_label": "5 Impasse Bon Secours 75011 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270777503",
+        "result_housenumber": "5",
+        "result_name": "Impasse Bon Secours",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.383939, 48.855166]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Espace 19 Cambrai",
+        "n° de rue": "28",
+        "nom de rue": "rue Bernard Tetu",
+        "code_postal": 75019,
+        "ville": "PARIS",
+        "code iris": 7408,
+        "Nbre d'actions": 2,
+        "adresse": "28 rue Bernard Tetu PARIS",
+        "result_label": "28 Rue Bernard Têtu 75019 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000311439139",
+        "result_housenumber": "28",
+        "result_name": "Rue Bernard Têtu",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.377556, 48.896292]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Espace 19 Ourcq",
+        "n° de rue": "20",
+        "nom de rue": "rue Léon Giraud",
+        "code_postal": 75019,
+        "ville": "PARIS",
+        "code iris": 7312,
+        "Nbre d'actions": 2,
+        "adresse": "20 rue Léon Giraud PARIS",
+        "result_label": "20 Rue Léon Giraud 75019 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000311439290",
+        "result_housenumber": "20",
+        "result_name": "Rue Léon Giraud",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.382738, 48.887733]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Espace Ardennes",
+        "n° de rue": "15/19",
+        "nom de rue": "rue des Ardennes",
+        "code_postal": 75019,
+        "ville": "PARIS",
+        "code iris": 7402,
+        "Nbre d'actions": 2,
+        "adresse": "15/19 rue des Ardennes PARIS",
+        "result_label": "19 Rue des Ardennes 75019 Paris",
+        "result_score": 0.71,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270716071",
+        "result_housenumber": "19",
+        "result_name": "Rue des Ardennes",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.386079, 48.888359]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Espace Résilience",
+        "n° de rue": "17",
+        "nom de rue": "rue Augustin Thierry",
+        "code_postal": 75019,
+        "ville": "PARIS",
+        "code iris": 7505,
+        "Nbre d'actions": 2,
+        "adresse": "17 rue Augustin Thierry PARIS",
+        "result_label": "17 Rue Augustin Thierry 75019 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270737830",
+        "result_housenumber": "17",
+        "result_name": "Rue Augustin Thierry",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.393487, 48.876059]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Etincelles",
+        "n° de rue": "65",
+        "nom de rue": "rue des Haies",
+        "code_postal": 75020,
+        "ville": "PARIS",
+        "code iris": 8017,
+        "Nbre d'actions": 2,
+        "adresse": "65 rue des Haies PARIS",
+        "result_label": "Rue des Haies 75020 Paris",
+        "result_score": 0.64,
+        "result_type": "street",
+        "result_id": "75120_4452_58a508",
+        "result_housenumber": null,
+        "result_name": "Rue des Haies",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.402219, 48.853946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Macao Ecritures",
+        "n° de rue": "11",
+        "nom de rue": "rue Caillaux",
+        "code_postal": 75013,
+        "ville": "PARIS",
+        "code iris": 5104,
+        "Nbre d'actions": 1,
+        "adresse": "11 rue Caillaux PARIS",
+        "result_label": "11 Rue Caillaux 75013 Paris",
+        "result_score": 0.73,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270825033",
+        "result_housenumber": "11",
+        "result_name": "Rue Caillaux",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.361323, 48.82266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "FAMILLATHON 75",
+        "n° de rue": "14",
+        "nom de rue": "avenue René Boylèsve",
+        "code_postal": 75016,
+        "ville": "PARIS",
+        "code iris": 6213,
+        "Nbre d'actions": 1,
+        "adresse": "14 avenue René Boylèsve PARIS",
+        "result_label": "14 Avenue René Boylesve 75016 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270773514",
+        "result_housenumber": "14",
+        "result_name": "Avenue René Boylesve",
+        "result_street": null,
+        "result_postcode": 75016,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75116
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.284056, 48.856595]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Fédération des AFC",
+        "n° de rue": "5",
+        "nom de rue": "rue Pierre Gourdault",
+        "code_postal": 75013,
+        "ville": "PARIS",
+        "code iris": 5020,
+        "Nbre d'actions": 1,
+        "adresse": "5 rue Pierre Gourdault PARIS",
+        "result_label": "5 Rue Pierre Gourdault 75013 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270815127",
+        "result_housenumber": "5",
+        "result_name": "Rue Pierre Gourdault",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.371641, 48.831821]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Florimont",
+        "n° de rue": "9",
+        "nom de rue": "place Marcel Paul",
+        "code_postal": 75014,
+        "ville": "PARIS",
+        "code iris": 5619,
+        "Nbre d'actions": 2,
+        "adresse": "9 place Marcel Paul PARIS",
+        "result_label": "9 Place Marcel Paul 75014 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270812511",
+        "result_housenumber": "9",
+        "result_name": "Place Marcel Paul",
+        "result_street": null,
+        "result_postcode": 75014,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.319261, 48.833784]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "GALANE",
+        "n° de rue": "8",
+        "nom de rue": "rue du Général Renault",
+        "code_postal": 75011,
+        "ville": "PARIS",
+        "code iris": 4204,
+        "Nbre d'actions": 1,
+        "adresse": "8 rue du Général Renault PARIS",
+        "result_label": "8 Rue du Général Renault 75011 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270765731",
+        "result_housenumber": "8",
+        "result_name": "Rue du Général Renault",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.378496, 48.861264]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "J2P",
+        "n° de rue": "32",
+        "nom de rue": "rue Petit",
+        "code_postal": 75019,
+        "ville": "PARIS",
+        "code iris": 7616,
+        "Nbre d'actions": 2,
+        "adresse": "32 rue Petit PARIS",
+        "result_label": "32 Rue Petit 75019 Paris",
+        "result_score": 0.71,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270721492",
+        "result_housenumber": "32",
+        "result_name": "Rue Petit",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.382174, 48.884812]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Jeunesse St Vincent de Paul",
+        "n° de rue": "12",
+        "nom de rue": "rue Bossuet",
+        "code_postal": 75010,
+        "ville": "PARIS",
+        "code iris": 3704,
+        "Nbre d'actions": 2,
+        "adresse": "12 rue Bossuet PARIS",
+        "result_label": "12 Rue Bossuet 75010 Paris",
+        "result_score": 0.71,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270732472",
+        "result_housenumber": "12",
+        "result_name": "Rue Bossuet",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.352414, 48.878804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Jumeaux et plus",
+        "n° de rue": "2",
+        "nom de rue": "rue Henri Ranvier",
+        "code_postal": 75011,
+        "ville": "PARIS",
+        "code iris": 4303,
+        "Nbre d'actions": 2,
+        "adresse": "2 rue Henri Ranvier PARIS",
+        "result_label": "2 Rue Henri Ranvier 75011 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270770350",
+        "result_housenumber": "2",
+        "result_name": "Rue Henri Ranvier",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.386377, 48.858644]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "La Clairière - CASP",
+        "n° de rue": "60",
+        "nom de rue": "rue Greneta",
+        "code_postal": 75002,
+        "ville": "PARIS",
+        "code iris": 802,
+        "Nbre d'actions": 1,
+        "adresse": "60 rue Greneta PARIS",
+        "result_label": "60 Rue Greneta 75002 Paris",
+        "result_score": 0.73,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270758902",
+        "result_housenumber": "60",
+        "result_name": "Rue Greneta",
+        "result_street": null,
+        "result_postcode": 75002,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.347621, 48.865594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "La Voie de la lune",
+        "n° de rue": "132",
+        "nom de rue": "Bd Sérurier",
+        "code_postal": 75019,
+        "ville": "PARIS",
+        "code iris": 7518,
+        "Nbre d'actions": 1,
+        "adresse": "132 Bd Sérurier PARIS",
+        "result_label": "132 Boulevard Sérurier 75019 Paris",
+        "result_score": 0.55,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270718115",
+        "result_housenumber": "132",
+        "result_name": "Boulevard Sérurier",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.394703, 48.887035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Le Moulin",
+        "n° de rue": "23bis",
+        "nom de rue": "rue du Moulin de la Vierge",
+        "code_postal": 75014,
+        "ville": "PARIS",
+        "code iris": 5617,
+        "Nbre d'actions": 1,
+        "adresse": "23bis rue du Moulin de la Vierge PARIS",
+        "result_label": "23 BIS Rue du Moulin de la Vierge 75014 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270813809",
+        "result_housenumber": "23 BIS",
+        "result_name": "Rue du Moulin de la Vierge",
+        "result_street": null,
+        "result_postcode": 75014,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.313512, 48.833055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Le Pari's des Faubourgs",
+        "n° de rue": "12",
+        "nom de rue": "rue Léon Schwartzenberg",
+        "code_postal": 75010,
+        "ville": "PARIS",
+        "code iris": 3806,
+        "Nbre d'actions": 2,
+        "adresse": "12 rue Léon Schwartzenberg PARIS",
+        "result_label": "12 Rue Léon Schwartzenberg 75010 Paris",
+        "result_score": 0.79,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270738043",
+        "result_housenumber": "12",
+        "result_name": "Rue Léon Schwartzenberg",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.354274, 48.875188]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Léo Lagrange Centre social Maurice Noguès",
+        "n° de rue": "1",
+        "nom de rue": "avenue de la Porte de Vanves",
+        "code_postal": 75014,
+        "ville": "PARIS",
+        "code iris": 5603,
+        "Nbre d'actions": 3,
+        "adresse": "1 avenue de la Porte de Vanves PARIS",
+        "result_label": "1 Avenue de la Porte de Vanves 75014 Paris",
+        "result_score": 0.81,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270821408",
+        "result_housenumber": "1",
+        "result_name": "Avenue de la Porte de Vanves",
+        "result_street": null,
+        "result_postcode": 75014,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.304826, 48.826627]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Les Enfants de la Goutte d'Or",
+        "n° de rue": "25",
+        "nom de rue": "rue de Chartres",
+        "code_postal": 75018,
+        "ville": "PARIS",
+        "code iris": 7102,
+        "Nbre d'actions": 1,
+        "adresse": "25 rue de Chartres PARIS",
+        "result_label": "25 Rue de Chartres 75018 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270721739",
+        "result_housenumber": "25",
+        "result_name": "Rue de Chartres",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.352988, 48.884739]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Les MINIS POUSSES",
+        "n° de rue": "46",
+        "nom de rue": "rue de Lancry",
+        "code_postal": 75010,
+        "ville": "PARIS",
+        "code iris": 3908,
+        "Nbre d'actions": 1,
+        "adresse": "46 rue de Lancry PARIS",
+        "result_label": "46 Rue de Lancry 75010 Paris",
+        "result_score": 0.74,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270744884",
+        "result_housenumber": "46",
+        "result_name": "Rue de Lancry",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.362481, 48.871771]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Le Petit Ney",
+        "n° de rue": "10",
+        "nom de rue": "avenue de la Porte Montmartre",
+        "code_postal": 75018,
+        "ville": "PARIS",
+        "code iris": 6926,
+        "Nbre d'actions": 1,
+        "adresse": "10 avenue de la Porte Montmartre PARIS",
+        "result_label": "10 Avenue de la Porte de Montmartre 75018 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270705687",
+        "result_housenumber": "10",
+        "result_name": "Avenue de la Porte de Montmartre",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.336889, 48.898518]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "LIGARE L'arbre vert",
+        "n° de rue": "82",
+        "nom de rue": "avenue de Suffren",
+        "code_postal": 75015,
+        "ville": "PARIS",
+        "code iris": 5914,
+        "Nbre d'actions": 1,
+        "adresse": "82 avenue de Suffren PARIS",
+        "result_label": "82 Avenue de Suffren 75015 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270784324",
+        "result_housenumber": "82",
+        "result_name": "Avenue de Suffren",
+        "result_street": null,
+        "result_postcode": 75015,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.300316, 48.85136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "MAISON DES ADOLESCENTS ROBERT DEBRE",
+        "n° de rue": "8",
+        "nom de rue": "avenue de la Porte du Pré Saint Gervais",
+        "code_postal": 75019,
+        "ville": "PARIS",
+        "code iris": 7519,
+        "Nbre d'actions": 1,
+        "adresse": "8 avenue de la Porte du Pré Saint Gervais PARIS",
+        "result_label": "8 Avenue de la Porte du Pré Saint-Gervais 75019 Paris",
+        "result_score": 0.83,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000328536780",
+        "result_housenumber": "8",
+        "result_name": "Avenue de la Porte du Pré Saint-Gervais",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.40172, 48.879324]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "MAISON BLEUE",
+        "n° de rue": "24",
+        "nom de rue": "avenue de la Porte Montmartre",
+        "code_postal": 75018,
+        "ville": "PARIS",
+        "code iris": 6926,
+        "Nbre d'actions": 1,
+        "adresse": "24 avenue de la Porte Montmartre PARIS",
+        "result_label": "24 Avenue de la Porte de Montmartre 75018 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000354622052",
+        "result_housenumber": "24",
+        "result_name": "Avenue de la Porte de Montmartre",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.335974, 48.899785]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "NATBE",
+        "n° de rue": "10",
+        "nom de rue": "boulevard Auguste Blanqui",
+        "code_postal": 75013,
+        "ville": "PARIS",
+        "code iris": 5201,
+        "Nbre d'actions": 1,
+        "adresse": "10 boulevard Auguste Blanqui PARIS",
+        "result_label": "10 Boulevard Auguste Blanqui 75013 Paris",
+        "result_score": 0.82,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270816295",
+        "result_housenumber": "10",
+        "result_name": "Boulevard Auguste Blanqui",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.353284, 48.83105]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "OPEJ Maison des familles et des cultures",
+        "n° de rue": "39",
+        "nom de rue": "rue de la Grange aux Belles",
+        "code_postal": 75010,
+        "ville": "PARIS",
+        "code iris": 4007,
+        "Nbre d'actions": 3,
+        "adresse": "39 rue de la Grange aux Belles PARIS",
+        "result_label": "39 Rue de la Grange aux Belles 75010 Paris",
+        "result_score": 0.81,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270737979",
+        "result_housenumber": "39",
+        "result_name": "Rue de la Grange aux Belles",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.367494, 48.87554]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Réseau Môm'artre",
+        "n° de rue": "204",
+        "nom de rue": "rue de Crimée",
+        "code_postal": 75019,
+        "ville": "PARIS",
+        "code iris": 7315,
+        "Nbre d'actions": 3,
+        "adresse": "204 rue de Crimée PARIS",
+        "result_label": "204 Rue de Crimée 75019 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270711382",
+        "result_housenumber": "204",
+        "result_name": "Rue de Crimée",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.375352, 48.892087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Mosaiques9",
+        "n° de rue": "24",
+        "nom de rue": "rue de la Rochefoucauld",
+        "code_postal": 75009,
+        "ville": "PARIS",
+        "code iris": 3302,
+        "Nbre d'actions": 1,
+        "adresse": "24 rue de la Rochefoucauld PARIS",
+        "result_label": "24 Rue de la Rochefoucauld 75009 Paris",
+        "result_score": 0.8,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270733297",
+        "result_housenumber": "24",
+        "result_name": "Rue de la Rochefoucauld",
+        "result_street": null,
+        "result_postcode": 75009,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.334569, 48.878496]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "OLGA SPITZER",
+        "n° de rue": "9",
+        "nom de rue": "Cour des Petites Ecuries",
+        "code_postal": 75010,
+        "ville": "PARIS",
+        "code iris": 3804,
+        "Nbre d'actions": 1,
+        "adresse": "9 Cour des Petites Ecuries PARIS",
+        "result_label": "9 Cour des Petites Écuries 75010 Paris",
+        "result_score": 0.79,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270744059",
+        "result_housenumber": "9",
+        "result_name": "Cour des Petites Écuries",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.351983, 48.87259]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "PACTE Projet d'Accompagnement Culturel de Transmission et d'Echange",
+        "n° de rue": "20",
+        "nom de rue": "rue Edouard Pailleron",
+        "code_postal": 75019,
+        "ville": "PARIS",
+        "code iris": 7612,
+        "Nbre d'actions": 1,
+        "adresse": "20 rue Edouard Pailleron PARIS",
+        "result_label": "20 Rue Édouard Pailleron 75019 Paris",
+        "result_score": 0.79,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270729938",
+        "result_housenumber": "20",
+        "result_name": "Rue Édouard Pailleron",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.376535, 48.880402]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Parrains Par Mille",
+        "n° de rue": "31",
+        "nom de rue": "rue Planchat",
+        "code_postal": 75020,
+        "ville": "PARIS",
+        "code iris": 8016,
+        "Nbre d'actions": 2,
+        "adresse": "31 rue Planchat PARIS",
+        "result_label": "31 Rue Planchât 75020 Paris",
+        "result_score": 0.74,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270780019",
+        "result_housenumber": "31",
+        "result_name": "Rue Planchât",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.398069, 48.853895]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Phare",
+        "n° de rue": "5",
+        "nom de rue": "rue Guillaumot",
+        "code_postal": 75012,
+        "ville": "PARIS",
+        "code iris": 4802,
+        "Nbre d'actions": 1,
+        "adresse": "5 rue Guillaumot PARIS",
+        "result_label": "5 Rue Guillaumot 75012 Paris",
+        "result_score": 0.73,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270795587",
+        "result_housenumber": "5",
+        "result_name": "Rue Guillaumot",
+        "result_street": null,
+        "result_postcode": 75012,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.377338, 48.845478]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "R.S.I. LA RESSOURCE",
+        "n° de rue": "45",
+        "nom de rue": "rue Berzélius",
+        "code_postal": 75017,
+        "ville": "PARIS",
+        "code iris": 6812,
+        "Nbre d'actions": 1,
+        "adresse": "45 rue Berzélius PARIS",
+        "result_label": "45 Rue Berzelius 75017 Paris",
+        "result_score": 0.74,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270708706",
+        "result_housenumber": "45",
+        "result_name": "Rue Berzelius",
+        "result_street": null,
+        "result_postcode": 75017,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.319589, 48.894294]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "UDAF de PARIS",
+        "n° de rue": "28",
+        "nom de rue": "place Saint Georges",
+        "code_postal": 75009,
+        "ville": "PARIS",
+        "code iris": 3301,
+        "Nbre d'actions": 1,
+        "adresse": "28 place Saint Georges PARIS",
+        "result_label": "28 Place Saint-Georges 75009 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270733278",
+        "result_housenumber": "28",
+        "result_name": "Place Saint-Georges",
+        "result_street": null,
+        "result_postcode": 75009,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.337732, 48.878502]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Association franco chinoise Pierre Ducerf",
+        "n° de rue": "29",
+        "nom de rue": "rue Michel le Comte",
+        "code_postal": 75003,
+        "ville": "PARIS",
+        "code iris": 1202,
+        "Nbre d'actions": 2,
+        "adresse": "29 rue Michel le Comte PARIS",
+        "result_label": "29 Rue Michel le Comte 75003 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000311435276",
+        "result_housenumber": "29",
+        "result_name": "Rue Michel le Comte",
+        "result_street": null,
+        "result_postcode": 75003,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.35474, 48.862558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "PLUS LOIN",
+        "n° de rue": "4",
+        "nom de rue": "rue Paul Jean Toulet",
+        "code_postal": 75020,
+        "ville": "PARIS",
+        "code iris": 8018,
+        "Nbre d'actions": 1,
+        "adresse": "4 rue Paul Jean Toulet PARIS",
+        "result_label": "4 Rue Paul-Jean Toulet 75020 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270772860",
+        "result_housenumber": "4",
+        "result_name": "Rue Paul-Jean Toulet",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.406632, 48.857374]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Relais 59",
+        "n° de rue": "1",
+        "nom de rue": "rue Hector Malot",
+        "code_postal": 75012,
+        "ville": "PARIS",
+        "code iris": 4802,
+        "Nbre d'actions": 1,
+        "adresse": "1 rue Hector Malot PARIS",
+        "result_label": "1 Rue Hector Malot 75012 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270795595",
+        "result_housenumber": "1",
+        "result_name": "Rue Hector Malot",
+        "result_street": null,
+        "result_postcode": 75012,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.37514, 48.845491]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Relais Ménilmontant",
+        "n° de rue": "2",
+        "nom de rue": "rue Henri Chevreau",
+        "code_postal": 75020,
+        "ville": "PARIS",
+        "code iris": 7703,
+        "Nbre d'actions": 2,
+        "adresse": "2 rue Henri Chevreau PARIS",
+        "result_label": "2 Rue Henri Chevreau 75020 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000312899903",
+        "result_housenumber": "2",
+        "result_name": "Rue Henri Chevreau",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.389688, 48.868858]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Secours Catholique Délégation de Paris",
+        "n° de rue": "13",
+        "nom de rue": "rue Saint Ambroise",
+        "code_postal": 75011,
+        "ville": "PARIS",
+        "code iris": 4204,
+        "Nbre d'actions": 1,
+        "adresse": "13 rue Saint Ambroise PARIS",
+        "result_label": "13 Rue Saint-Ambroise 75011 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270765052",
+        "result_housenumber": "13",
+        "result_name": "Rue Saint-Ambroise",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.376642, 48.861906]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Soleil Saint Blaise",
+        "n° de rue": "50",
+        "nom de rue": "rue Mouraud",
+        "code_postal": 75020,
+        "ville": "PARIS",
+        "code iris": 8010,
+        "Nbre d'actions": 1,
+        "adresse": "50 rue Mouraud PARIS",
+        "result_label": "50 Rue Mouraud 75020 Paris",
+        "result_score": 0.74,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000311428958",
+        "result_housenumber": "50",
+        "result_name": "Rue Mouraud",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.408885, 48.856266]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "Solidarité Roquette",
+        "n° de rue": "47",
+        "nom de rue": "rue de la Roquette",
+        "code_postal": 75011,
+        "ville": "PARIS",
+        "code iris": 4314,
+        "Nbre d'actions": 2,
+        "adresse": "47 rue de la Roquette PARIS",
+        "result_label": "47 Rue de la Roquette 75011 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270776611",
+        "result_housenumber": "47",
+        "result_name": "Rue de la Roquette",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.374484, 48.855628]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "ASFM/ YACHAD",
+        "n° de rue": "42",
+        "nom de rue": "rue de l'Ouest",
+        "code_postal": 75014,
+        "ville": "PARIS",
+        "code iris": 5624,
+        "Nbre d'actions": 1,
+        "adresse": "42 rue de l'Ouest PARIS",
+        "result_label": "42 Rue de l'Ouest 75014 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270809311",
+        "result_housenumber": "42",
+        "result_name": "Rue de l'Ouest",
+        "result_street": null,
+        "result_postcode": 75014,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.319764, 48.836375]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Gestionnaire demandeur": "L'Ile aux langues",
+        "n° de rue": "19",
+        "nom de rue": "rue Emile Duployé",
+        "code_postal": 75018,
+        "ville": "PARIS",
+        "code iris": 7108,
+        "Nbre d'actions": 1,
+        "adresse": "19 rue Emile Duployé PARIS",
+        "result_label": "19 Rue Émile Duploye 75018 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270714365",
+        "result_housenumber": "19",
+        "result_name": "Rue Émile Duploye",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.355145, 48.889502]
+      }
+    }
+  ]
+}

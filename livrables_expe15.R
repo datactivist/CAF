@@ -115,3 +115,9 @@ tm_shape(paris15_osm_dark) +
   tm_credits(text = "Source : CAF de Paris. Réalisation : École des données/OKF pour la CAF. Map tiles by Carto, under CC BY 3.0. Data by OpenStreetMap, under ODbL.")
 dev.off()
 dev.off()
+
+# export geo_json
+LAEP <- st_as_sf(LAEP)
+geojson_write(LAEP, file = "./geojson/LAEP.geojson")
+REAAP <- st_as_sf(REAAP)
+geojson_write(REAAP, file = "./geojson/REAAP.geojson")

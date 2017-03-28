@@ -1,0 +1,509 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom du porteur de projet": "Ass Estrelia",
+        "Nom du LAEP": "Le coquelicot",
+        "N° de rue": "15",
+        "Nom de la rue": "Rue du Maroc",
+        "code_postal": 75019,
+        "Ville": "Paris",
+        "IRIS": 7307,
+        "adresse": "15 Rue du Maroc Paris",
+        "result_label": "15 Rue du Maroc 75019 Paris",
+        "result_score": 0.73,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270718230",
+        "result_housenumber": "15",
+        "result_name": "Rue du Maroc",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.368963, 48.886623]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom du porteur de projet": "Ass IRAEC",
+        "Nom du LAEP": "L'IRAEC",
+        "N° de rue": "41",
+        "Nom de la rue": "Rue Joseph de Maistre",
+        "code_postal": 75018,
+        "Ville": "Paris",
+        "IRIS": 6916,
+        "adresse": "41 Rue Joseph de Maistre Paris",
+        "result_label": "41 Rue Joseph de Maistre 75018 Paris",
+        "result_score": 0.79,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270710153",
+        "result_housenumber": "41",
+        "result_name": "Rue Joseph de Maistre",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.330198, 48.893077]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom du porteur de projet": "Ass L'arbre Bleu",
+        "Nom du LAEP": "L'arbre Bleu",
+        "N° de rue": "52",
+        "Nom de la rue": "Rue Polonceau",
+        "code_postal": 75018,
+        "Ville": "Paris",
+        "IRIS": 7103,
+        "adresse": "52 Rue Polonceau Paris",
+        "result_label": "52 Rue Polonceau 75018 Paris",
+        "result_score": 0.74,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270719164",
+        "result_housenumber": "52",
+        "result_name": "Rue Polonceau",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.350687, 48.886001]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom du porteur de projet": "Ass Les équipes d'Amitié",
+        "Nom du LAEP": "La Caragole",
+        "N° de rue": "17",
+        "Nom de la rue": "Rue de l'Echiquier",
+        "code_postal": 75010,
+        "Ville": "Paris",
+        "IRIS": 3803,
+        "adresse": "17 Rue de l'Echiquier Paris",
+        "result_label": "17 Rue de l'Échiquier 75010 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270747047",
+        "result_housenumber": "17",
+        "result_name": "Rue de l'Échiquier",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.351644, 48.871229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom du porteur de projet": "Ass Estrelia",
+        "Nom du LAEP": "Graines de Familles",
+        "N° de rue": "8",
+        "Nom de la rue": "Rue Perdonnet",
+        "code_postal": 75010,
+        "Ville": "Paris",
+        "IRIS": 3708,
+        "adresse": "8 Rue Perdonnet Paris",
+        "result_label": "8 Rue Perdonnet 75010 Paris",
+        "result_score": 0.73,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270725185",
+        "result_housenumber": "8",
+        "result_name": "Rue Perdonnet",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.359904, 48.883179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom du porteur de projet": "Ass Parler à d'Autres",
+        "Nom du LAEP": "Les P'tits Les grands",
+        "N° de rue": "5",
+        "Nom de la rue": "Rue de la boule rouge",
+        "code_postal": 75009,
+        "Ville": "Paris",
+        "IRIS": 3501,
+        "adresse": "5 Rue de la boule rouge Paris",
+        "result_label": "5 Rue de la Boule Rouge 75009 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270742396",
+        "result_housenumber": "5",
+        "result_name": "Rue de la Boule Rouge",
+        "result_street": null,
+        "result_postcode": 75009,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.344669, 48.873431]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom du porteur de projet": "Ass OSE",
+        "Nom du LAEP": "Maison des Sources",
+        "N° de rue": "83",
+        "Nom de la rue": "rue Julien Lacroix",
+        "code_postal": 75020,
+        "Ville": "Paris",
+        "IRIS": 7710,
+        "adresse": "83 rue Julien Lacroix Paris",
+        "result_label": "83 Rue Julien Lacroix 75020 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270745745",
+        "result_housenumber": "83",
+        "result_name": "Rue Julien Lacroix",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.382696, 48.871708]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom du porteur de projet": "Fondation Rothschild",
+        "Nom du LAEP": "L'ilôt aux bébés",
+        "N° de rue": "04-juil",
+        "Nom de la rue": "Square Dunois",
+        "code_postal": 75013,
+        "Ville": "Paris",
+        "IRIS": 5020,
+        "adresse": "04-juil Square Dunois Paris",
+        "result_label": "Square Dunois 75013 Paris",
+        "result_score": 0.54,
+        "result_type": "street",
+        "result_id": "75113_2993_56cbd6",
+        "result_housenumber": null,
+        "result_name": "Square Dunois",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.366445, 48.833654]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom du porteur de projet": "Ass EPE",
+        "Nom du LAEP": "La Maison ouverte",
+        "N° de rue": "164",
+        "Nom de la rue": "Boulevard Voltaire",
+        "code_postal": 75011,
+        "Ville": "Paris",
+        "IRIS": 4306,
+        "adresse": "164 Boulevard Voltaire Paris",
+        "result_label": "164 Boulevard Voltaire 75011 Paris",
+        "result_score": 0.79,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270776541",
+        "result_housenumber": "164",
+        "result_name": "Boulevard Voltaire",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.383643, 48.855649]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom du porteur de projet": "Ass Coopération Féminine",
+        "Nom du LAEP": "Le Jardin des Roos",
+        "N° de rue": "81",
+        "Nom de la rue": "Rue des Vignoles",
+        "code_postal": 75020,
+        "Ville": "Paris",
+        "IRIS": 8017,
+        "adresse": "81 Rue des Vignoles Paris",
+        "result_label": "81 Rue des Vignoles 75020 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270775518",
+        "result_housenumber": "81",
+        "result_name": "Rue des Vignoles",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.402214, 48.855884]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom du porteur de projet": "Ass Petite Enfance et Parentalité",
+        "Nom du LAEP": "La Maison Verte",
+        "N° de rue": "13",
+        "Nom de la rue": "Rue Meilhac",
+        "code_postal": 75015,
+        "Ville": "Paris",
+        "IRIS": 5810,
+        "adresse": "13 Rue Meilhac Paris",
+        "result_label": "13 Rue Meilhac 75015 Paris",
+        "result_score": 0.72,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270795833",
+        "result_housenumber": "13",
+        "result_name": "Rue Meilhac",
+        "result_street": null,
+        "result_postcode": 75015,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.298496, 48.844927]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom du porteur de projet": "Ass de l'infant à l'enfant",
+        "Nom du LAEP": "La Babillo",
+        "N° de rue": "48 bis",
+        "Nom de la rue": "Rue Boinod",
+        "code_postal": 75018,
+        "Ville": "Paris",
+        "IRIS": 7018,
+        "adresse": "48 bis Rue Boinod Paris",
+        "result_label": "48 BIS Rue Boinod 75018 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270708415",
+        "result_housenumber": "48 BIS",
+        "result_name": "Rue Boinod",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.352383, 48.894587]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom du porteur de projet": "Ass CLAP",
+        "Nom du LAEP": "Le Passage des Tout-petits",
+        "N° de rue": "24",
+        "Nom de la rue": "Passage Raguinot",
+        "code_postal": 75012,
+        "Ville": "Paris",
+        "IRIS": 4802,
+        "adresse": "24 Passage Raguinot Paris",
+        "result_label": "24 Passage Raguinot 75012 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270796221",
+        "result_housenumber": "24",
+        "result_name": "Passage Raguinot",
+        "result_street": null,
+        "result_postcode": 75012,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.379075, 48.84505]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom du porteur de projet": "Ass CASP",
+        "Nom du LAEP": "La Clairière - la bulle d'air",
+        "N° de rue": "60",
+        "Nom de la rue": "Rue Greneta",
+        "code_postal": 75002,
+        "Ville": "Paris",
+        "IRIS": 802,
+        "adresse": "60 Rue Greneta Paris",
+        "result_label": "60 Rue Greneta 75002 Paris",
+        "result_score": 0.73,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270758902",
+        "result_housenumber": "60",
+        "result_name": "Rue Greneta",
+        "result_street": null,
+        "result_postcode": 75002,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.347621, 48.865594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom du porteur de projet": "CAF Centre social Regaud",
+        "Nom du LAEP": "LAEP Regaud",
+        "N° de rue": "21",
+        "Nom de la rue": "Avenue Claude Regaud",
+        "code_postal": 75013,
+        "Ville": "Paris",
+        "IRIS": 5002,
+        "adresse": "21 Avenue Claude Regaud Paris",
+        "result_label": "21 Avenue Claude Regaud 75013 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270826020",
+        "result_housenumber": "21",
+        "result_name": "Avenue Claude Regaud",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.37224, 48.820944]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom du porteur de projet": "CAF Centre social Chevaleret",
+        "Nom du LAEP": "LAEP Chevaleret",
+        "N° de rue": "3 bis",
+        "Nom de la rue": "Rue Oudiné",
+        "code_postal": 75013,
+        "Ville": "Paris",
+        "IRIS": 5013,
+        "adresse": "3 bis Rue Oudiné Paris",
+        "result_label": "Rue Eugène Oudine 75013 Paris",
+        "result_score": 0.47,
+        "result_type": "street",
+        "result_id": "75113_3430_be0c78",
+        "result_housenumber": null,
+        "result_name": "Rue Eugène Oudine",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.375274, 48.8257]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom du porteur de projet": "CAF Centre social Belliard",
+        "Nom du LAEP": "L'échappée Belle",
+        "N° de rue": "145",
+        "Nom de la rue": "Rue de Belliard",
+        "code_postal": 75018,
+        "Ville": "Paris",
+        "IRIS": 6922,
+        "adresse": "145 Rue de Belliard Paris",
+        "result_label": "145 Rue Belliard 75018 Paris",
+        "result_score": 0.68,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270706966",
+        "result_housenumber": "145",
+        "result_name": "Rue Belliard",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.333785, 48.896125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom du porteur de projet": "CAF Centre social Tanger",
+        "Nom du LAEP": "Pitchoun",
+        "N° de rue": "28",
+        "Nom de la rue": "Rue de Tanger",
+        "code_postal": 75019,
+        "Ville": "Paris",
+        "IRIS": 7306,
+        "adresse": "28 Rue de Tanger Paris",
+        "result_label": "28 Rue de Tanger 75019 Paris",
+        "result_score": 0.74,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000354622086",
+        "result_housenumber": "28",
+        "result_name": "Rue de Tanger",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.370856, 48.888353]
+      }
+    }
+  ]
+}
