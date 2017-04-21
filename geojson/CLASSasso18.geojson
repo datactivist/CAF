@@ -1,0 +1,3757 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "3 rue Béranger",
+        "Arrondissement": 75003,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75003,
+        "ville": "Paris",
+        "adresse": "3 rue Béranger, Paris",
+        "result_label": "3 Rue Béranger 75003 Paris",
+        "result_score": 0.72,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270760575",
+        "result_housenumber": "3",
+        "result_name": "Rue Béranger",
+        "result_street": null,
+        "result_postcode": 75003,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.364379, 48.864819]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "8 rue Vertus",
+        "Arrondissement": 75003,
+        "Elémentaire": 14,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75003,
+        "ville": "Paris",
+        "adresse": "8 rue Vertus, Paris",
+        "result_label": "8 Rue des Vertus 75003 Paris",
+        "result_score": 0.6,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270761513",
+        "result_housenumber": "8",
+        "result_name": "Rue des Vertus",
+        "result_street": null,
+        "result_postcode": 75003,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75103
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.357887, 48.864174]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "39 rue de l'Aqueduc",
+        "Arrondissement": 75010,
+        "Elémentaire": 32,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75010,
+        "ville": "Paris",
+        "adresse": "39 rue de l'Aqueduc, Paris",
+        "result_label": "39 Rue de l'Aqueduc 75010 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270725977",
+        "result_housenumber": "39",
+        "result_name": "Rue de l'Aqueduc",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.363913, 48.882474]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "41 rue Chabrol",
+        "Arrondissement": 75010,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75010,
+        "ville": "Paris",
+        "adresse": "41 rue Chabrol, Paris",
+        "result_label": "41 Rue de Chabrol 75010 Paris",
+        "result_score": 0.65,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270735678",
+        "result_housenumber": "41",
+        "result_name": "Rue de Chabrol",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.353001, 48.876811]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "33 Rue Claude Vellefaux",
+        "Arrondissement": 75010,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75010,
+        "ville": "Paris",
+        "adresse": "33 Rue Claude Vellefaux, Paris",
+        "result_label": "33 Avenue Claude Vellefaux 75010 Paris",
+        "result_score": 0.64,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270736479",
+        "result_housenumber": "33",
+        "result_name": "Avenue Claude Vellefaux",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.370133, 48.876866]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "34 rue du Fbg St Denis",
+        "Arrondissement": 75010,
+        "Elémentaire": 26,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75010,
+        "ville": "Paris",
+        "adresse": "34 rue du Fbg St Denis, Paris",
+        "result_label": "34 Rue du Faubourg Saint-Denis 75010 Paris",
+        "result_score": 0.54,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270747015",
+        "result_housenumber": "34",
+        "result_name": "Rue du Faubourg Saint-Denis",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.353503, 48.871103]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "49 bis rue Louis Blanc",
+        "Arrondissement": 75010,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75010,
+        "ville": "Paris",
+        "adresse": "49 bis rue Louis Blanc, Paris",
+        "result_label": "49 BIS Rue Louis Blanc 75010 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270725983",
+        "result_housenumber": "49 BIS",
+        "result_name": "Rue Louis Blanc",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.362401, 48.882464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "9 rue Martel",
+        "Arrondissement": 75010,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75010,
+        "ville": "Paris",
+        "adresse": "9 rue Martel, Paris",
+        "result_label": "9 Rue Martel 75010 Paris",
+        "result_score": 0.7,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270741497",
+        "result_housenumber": "9",
+        "result_name": "Rue Martel",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.352912, 48.873971]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "159 rue Parmentier",
+        "Arrondissement": 75010,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75010,
+        "ville": "Paris",
+        "adresse": "159 rue Parmentier, Paris",
+        "result_label": "159 Avenue Parmentier 75010 Paris",
+        "result_score": 0.6,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270745836",
+        "result_housenumber": "159",
+        "result_name": "Avenue Parmentier",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.369595, 48.871707]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "19 Passage Récollets",
+        "Arrondissement": 75010,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75010,
+        "ville": "Paris",
+        "adresse": "19 Passage Récollets, Paris",
+        "result_label": "19 Passage des Récollets 75010 Paris",
+        "result_score": 0.68,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270740582",
+        "result_housenumber": "19",
+        "result_name": "Passage des Récollets",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.360523, 48.874297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "200 rue Saint Maur",
+        "Arrondissement": 75010,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75010,
+        "ville": "Paris",
+        "adresse": "200 rue Saint Maur, Paris",
+        "result_label": "200 Rue Saint-Maur 75010 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270744818",
+        "result_housenumber": "200",
+        "result_name": "Rue Saint-Maur",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.371675, 48.872242]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "16 rue Vicq d'Azir",
+        "Arrondissement": 75010,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75010,
+        "ville": "Paris",
+        "adresse": "16 rue Vicq d'Azir, Paris",
+        "result_label": "16 Rue Vicq d'Azir 75010 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270737210",
+        "result_housenumber": "16",
+        "result_name": "Rue Vicq d'Azir",
+        "result_street": null,
+        "result_postcode": 75010,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75110
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.370545, 48.876069]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "77 Boulevard Belleville",
+        "Arrondissement": 75011,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75011,
+        "ville": "Paris",
+        "adresse": "77 Boulevard Belleville, Paris",
+        "result_label": "77 Boulevard de Belleville 75011 Paris",
+        "result_score": 0.73,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270746776",
+        "result_housenumber": "77",
+        "result_name": "Boulevard de Belleville",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.377427, 48.87128]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "4 Rue Keller",
+        "Arrondissement": 75011,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75011,
+        "ville": "Paris",
+        "adresse": "4 Rue Keller, Paris",
+        "result_label": "4 Rue Keller 75011 Paris",
+        "result_score": 0.71,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270780149",
+        "result_housenumber": "4",
+        "result_name": "Rue Keller",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.376853, 48.853623]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "109-111 Avenue Parmentier",
+        "Arrondissement": 75011,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75011,
+        "ville": "Paris",
+        "adresse": "109-111 Avenue Parmentier, Paris",
+        "result_label": "111 Avenue Parmentier 75011 Paris",
+        "result_score": 0.7,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270753721",
+        "result_housenumber": "111",
+        "result_name": "Avenue Parmentier",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.372377, 48.867945]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "98 Avenue de la République",
+        "Arrondissement": 75011,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75011,
+        "ville": "Paris",
+        "adresse": "98 Avenue de la République, Paris",
+        "result_label": "98 Avenue de la République 75011 Paris",
+        "result_score": 0.8,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270762092",
+        "result_housenumber": "98",
+        "result_name": "Avenue de la République",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.382337, 48.863745]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "100 Avenue de la République",
+        "Arrondissement": 75011,
+        "Elémentaire": 26,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75011,
+        "ville": "Paris",
+        "adresse": "100 Avenue de la République, Paris",
+        "result_label": "100 Avenue de la République 75011 Paris",
+        "result_score": 0.81,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270762828",
+        "result_housenumber": "100",
+        "result_name": "Avenue de la République",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.382744, 48.86356]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "22 rue Saint-Maur",
+        "Arrondissement": 75011,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75011,
+        "ville": "Paris",
+        "adresse": "22 rue Saint-Maur, Paris",
+        "result_label": "22 Rue Saint-Maur 75011 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270767866",
+        "result_housenumber": "22",
+        "result_name": "Rue Saint-Maur",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.382034, 48.860315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "39 rue des Trois Bornes",
+        "Arrondissement": 75011,
+        "Elémentaire": 14,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75011,
+        "ville": "Paris",
+        "adresse": "39 rue des Trois Bornes, Paris",
+        "result_label": "39 Rue des 3 Bornes 75011 Paris",
+        "result_score": 0.59,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270754766",
+        "result_housenumber": "39",
+        "result_name": "Rue des 3 Bornes",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.374589, 48.867344]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "8 Cité Voltaire",
+        "Arrondissement": 75011,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75011,
+        "ville": "Paris",
+        "adresse": "8 Cité Voltaire, Paris",
+        "result_label": "8 Cité Voltaire 75011 Paris",
+        "result_score": 0.73,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270781892",
+        "result_housenumber": "8",
+        "result_name": "Cité Voltaire",
+        "result_street": null,
+        "result_postcode": 75011,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75111
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.390494, 48.85265]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "165 rue de Bercy",
+        "Arrondissement": 75012,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75012,
+        "ville": "Paris",
+        "adresse": "165 rue de Bercy, Paris",
+        "result_label": "165 Rue de Bercy 75012 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270799997",
+        "result_housenumber": "165",
+        "result_name": "Rue de Bercy",
+        "result_street": null,
+        "result_postcode": 75012,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.375456, 48.842551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "18 de la Brèche au loup",
+        "Arrondissement": 75012,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75012,
+        "ville": "Paris",
+        "adresse": "18 de la Brèche au loup, Paris",
+        "result_label": "18 Rue de la Breche aux Loups 75012 Paris",
+        "result_score": 0.6,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270807813",
+        "result_housenumber": "18",
+        "result_name": "Rue de la Breche aux Loups",
+        "result_street": null,
+        "result_postcode": 75012,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.394084, 48.837456]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "8 rue Lamoricière",
+        "Arrondissement": 75012,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75012,
+        "ville": "Paris",
+        "adresse": "8 rue Lamoricière, Paris",
+        "result_label": "8 Avenue Lamoricière 75012 Paris",
+        "result_score": 0.58,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270796847",
+        "result_housenumber": "8",
+        "result_name": "Avenue Lamoricière",
+        "result_street": null,
+        "result_postcode": 75012,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.412248, 48.844726]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "10 rue Lamoricière",
+        "Arrondissement": 75012,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75012,
+        "ville": "Paris",
+        "adresse": "10 rue Lamoricière, Paris",
+        "result_label": "10 Avenue Lamoricière 75012 Paris",
+        "result_score": 0.59,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270796048",
+        "result_housenumber": "10",
+        "result_name": "Avenue Lamoricière",
+        "result_street": null,
+        "result_postcode": 75012,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75112
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.412332, 48.844859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "55 rue Baudricourt",
+        "Arrondissement": 75013,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75013,
+        "ville": "Paris",
+        "adresse": "55 rue Baudricourt, Paris",
+        "result_label": "55 Rue Baudricourt 75013 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270821948",
+        "result_housenumber": "55",
+        "result_name": "Rue Baudricourt",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.363137, 48.825761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "37 rue du Château des Rentiers",
+        "Arrondissement": 75013,
+        "Elémentaire": 8,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75013,
+        "ville": "Paris",
+        "adresse": "37 rue du Château des Rentiers, Paris",
+        "result_label": "37 Rue du Château des Rentiers 75013 Paris",
+        "result_score": 0.82,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270823501",
+        "result_housenumber": "37",
+        "result_name": "Rue du Château des Rentiers",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.370047, 48.824617]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "40 rue du Château des Rentiers",
+        "Arrondissement": 75013,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75013,
+        "ville": "Paris",
+        "adresse": "40 rue du Château des Rentiers, Paris",
+        "result_label": "40 Rue du Château des Rentiers 75013 Paris",
+        "result_score": 0.82,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270823504",
+        "result_housenumber": "40",
+        "result_name": "Rue du Château des Rentiers",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.37, 48.82491]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "173 rue du Château des Rentiers",
+        "Arrondissement": 75013,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75013,
+        "ville": "Paris",
+        "adresse": "173 rue du Château des Rentiers, Paris",
+        "result_label": "173 Rue du Château des Rentiers 75013 Paris",
+        "result_score": 0.82,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270816782",
+        "result_housenumber": "173",
+        "result_name": "Rue du Château des Rentiers",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.361923, 48.830318]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "3 rue Emile Levassor",
+        "Arrondissement": 75013,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75013,
+        "ville": "Paris",
+        "adresse": "3 rue Emile Levassor, Paris",
+        "result_label": "3 Rue Émile Levassor 75013 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270826032",
+        "result_housenumber": "3",
+        "result_name": "Rue Émile Levassor",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.369042, 48.820888]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "9 rue du Franc Nohain",
+        "Arrondissement": 75013,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75013,
+        "ville": "Paris",
+        "adresse": "9 rue du Franc Nohain, Paris",
+        "result_label": "9 Rue Franc-Nohain 75013 Paris",
+        "result_score": 0.68,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270825887",
+        "result_housenumber": "9",
+        "result_name": "Rue Franc-Nohain",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.375173, 48.821395]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "47 avenue d'Ivry",
+        "Arrondissement": 75013,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75013,
+        "ville": "Paris",
+        "adresse": "47 avenue d'Ivry, Paris",
+        "result_label": "47 Avenue d'Ivry 75013 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270824695",
+        "result_housenumber": "47",
+        "result_name": "Avenue d'Ivry",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.365782, 48.823059]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "48 avenue d'Ivry",
+        "Arrondissement": 75013,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75013,
+        "ville": "Paris",
+        "adresse": "48 avenue d'Ivry, Paris",
+        "result_label": "48 Avenue d'Ivry 75013 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270824378",
+        "result_housenumber": "48",
+        "result_name": "Avenue d'Ivry",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.365415, 48.823649]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "40 rue Jenner",
+        "Arrondissement": 75013,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75013,
+        "ville": "Paris",
+        "adresse": "40 rue Jenner, Paris",
+        "result_label": "40 Rue Jenner 75013 Paris",
+        "result_score": 0.71,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270810478",
+        "result_housenumber": "40",
+        "result_name": "Rue Jenner",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.361931, 48.835572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "9 rue Küss",
+        "Arrondissement": 75013,
+        "Elémentaire": 18,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75013,
+        "ville": "Paris",
+        "adresse": "9 rue Küss, Paris",
+        "result_label": "Rue Kuss 75013 Paris",
+        "result_score": 0.59,
+        "result_type": "street",
+        "result_id": "75113_5179_37f211",
+        "result_housenumber": null,
+        "result_name": "Rue Kuss",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.35112, 48.822208]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "51 Avenue Porte d'Ivry",
+        "Arrondissement": 75013,
+        "Elémentaire": 26,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75013,
+        "ville": "Paris",
+        "adresse": "51 Avenue Porte d'Ivry, Paris",
+        "result_label": "51 Avenue de la Porte d'Ivry 75013 Paris",
+        "result_score": 0.66,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270826031",
+        "result_housenumber": "51",
+        "result_name": "Avenue de la Porte d'Ivry",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.369608, 48.821127]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "2 place des 44 enfants d'Yzieu",
+        "Arrondissement": 75013,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75013,
+        "ville": "Paris",
+        "adresse": "2 place des 44 enfants d'Yzieu, Paris",
+        "result_label": "2 Place des 44 Enfants d'Izieu 75013 Paris",
+        "result_score": 0.72,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270825966",
+        "result_housenumber": "2",
+        "result_name": "Place des 44 Enfants d'Izieu",
+        "result_street": null,
+        "result_postcode": 75013,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75113
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.35628, 48.82155]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "5/7 square Alain Fournier",
+        "Arrondissement": 75014,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75014,
+        "ville": "Paris",
+        "adresse": "5/7 square Alain Fournier, Paris",
+        "result_label": "7 Square Alain-Fournier 75014 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270819876",
+        "result_housenumber": "7",
+        "result_name": "Square Alain-Fournier",
+        "result_street": null,
+        "result_postcode": 75014,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.307232, 48.828107]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "188 rue d'Alésia",
+        "Arrondissement": 75014,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75014,
+        "ville": "Paris",
+        "adresse": "188 rue d'Alésia, Paris",
+        "result_label": "188 Rue d'Alesia 75014 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270814399",
+        "result_housenumber": "188",
+        "result_name": "Rue d'Alesia",
+        "result_street": null,
+        "result_postcode": 75014,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.312332, 48.832474]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "8 rue Maurice Rouvier",
+        "Arrondissement": 75014,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75014,
+        "ville": "Paris",
+        "adresse": "8 rue Maurice Rouvier, Paris",
+        "result_label": "8 Rue Maurice Rouvier 75014 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270816062",
+        "result_housenumber": "8",
+        "result_name": "Rue Maurice Rouvier",
+        "result_street": null,
+        "result_postcode": 75014,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.309798, 48.831144]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "5 rue Prisse d'Avennes",
+        "Arrondissement": 75014,
+        "Elémentaire": 18,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75014,
+        "ville": "Paris",
+        "adresse": "5 rue Prisse d'Avennes, Paris",
+        "result_label": "5 Rue Prisse d'Avennes 75014 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270822672",
+        "result_housenumber": "5",
+        "result_name": "Rue Prisse d'Avennes",
+        "result_street": null,
+        "result_postcode": 75014,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75114
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.328302, 48.825109]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "3 bd des Frères Voisin",
+        "Arrondissement": 75015,
+        "Elémentaire": 14,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75015,
+        "ville": "Paris",
+        "adresse": "3 bd des Frères Voisin, Paris",
+        "result_label": "3 Boulevard des Frères Voisin 75015 Paris",
+        "result_score": 0.6,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270819450",
+        "result_housenumber": "3",
+        "result_name": "Boulevard des Frères Voisin",
+        "result_street": null,
+        "result_postcode": 75015,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.268327, 48.827955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "5 avenue Porte Brançion",
+        "Arrondissement": 75015,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75015,
+        "ville": "Paris",
+        "adresse": "5 avenue Porte Brançion, Paris",
+        "result_label": "5 Avenue de la Porte Brancion 75015 Paris",
+        "result_score": 0.67,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270820437",
+        "result_housenumber": "5",
+        "result_name": "Avenue de la Porte Brancion",
+        "result_street": null,
+        "result_postcode": 75015,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.301233, 48.827297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "112 boulevard Berthier",
+        "Arrondissement": 75017,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75017,
+        "ville": "Paris",
+        "adresse": "112 boulevard Berthier, Paris",
+        "result_label": "112 Boulevard Berthier 75017 Paris",
+        "result_score": 0.79,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270714693",
+        "result_housenumber": "112",
+        "result_name": "Boulevard Berthier",
+        "result_street": null,
+        "result_postcode": 75017,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.301642, 48.889191]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "92 boulevard Bessières",
+        "Arrondissement": 75017,
+        "Elémentaire": 26,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75017,
+        "ville": "Paris",
+        "adresse": "92 boulevard Bessières, Paris",
+        "result_label": "92 Boulevard Bessières 75017 Paris",
+        "result_score": 0.79,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270706805",
+        "result_housenumber": "92",
+        "result_name": "Boulevard Bessières",
+        "result_street": null,
+        "result_postcode": 75017,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.318958, 48.896401]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "17 rue du Capitaine Lagache",
+        "Arrondissement": 75017,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75017,
+        "ville": "Paris",
+        "adresse": "17 rue du Capitaine Lagache, Paris",
+        "result_label": "17 Rue du Capitaine Lagache 75017 Paris",
+        "result_score": 0.81,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270711168",
+        "result_housenumber": "17",
+        "result_name": "Rue du Capitaine Lagache",
+        "result_street": null,
+        "result_postcode": 75017,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.326031, 48.891936]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "42 rue des Epinettes",
+        "Arrondissement": 75017,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75017,
+        "ville": "Paris",
+        "adresse": "42 rue des Epinettes, Paris",
+        "result_label": "42 Rue des Épinettes 75017 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270706767",
+        "result_housenumber": "42",
+        "result_name": "Rue des Épinettes",
+        "result_street": null,
+        "result_postcode": 75017,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.323884, 48.89681]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "5 rue Jacques Kellner",
+        "Arrondissement": 75017,
+        "Elémentaire": 14,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75017,
+        "ville": "Paris",
+        "adresse": "5 rue Jacques Kellner, Paris",
+        "result_label": "5 Rue Jacques Kellner 75017 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270706762",
+        "result_housenumber": "5",
+        "result_name": "Rue Jacques Kellner",
+        "result_street": null,
+        "result_postcode": 75017,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.324734, 48.896642]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "5 ru Marguerite Long",
+        "Arrondissement": 75017,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75017,
+        "ville": "Paris",
+        "adresse": "5 ru Marguerite Long, Paris",
+        "result_label": "5 Rue Marguerite Long 75017 Paris",
+        "result_score": 0.69,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270712346",
+        "result_housenumber": "5",
+        "result_name": "Rue Marguerite Long",
+        "result_street": null,
+        "result_postcode": 75017,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.304575, 48.890955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "42 rue Pouchet",
+        "Arrondissement": 75017,
+        "Elémentaire": 26,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75017,
+        "ville": "Paris",
+        "adresse": "42 rue Pouchet, Paris",
+        "result_label": "42 Rue Pouchet 75017 Paris",
+        "result_score": 0.73,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270709180",
+        "result_housenumber": "42",
+        "result_name": "Rue Pouchet",
+        "result_street": null,
+        "result_postcode": 75017,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.320401, 48.893819]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "38 Boulevard de Reims",
+        "Arrondissement": 75017,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75017,
+        "ville": "Paris",
+        "adresse": "38 Boulevard de Reims, Paris",
+        "result_label": "38 Boulevard de Reims 75017 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000340141188",
+        "result_housenumber": "38",
+        "result_name": "Boulevard de Reims",
+        "result_street": null,
+        "result_postcode": 75017,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.295441, 48.888276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Belliard (129 rue)",
+        "Arrondissement": 75018,
+        "Elémentaire": 18,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Belliard (129 rue), Paris",
+        "result_label": "129 Rue Belliard 75018 Paris",
+        "result_score": 0.69,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270706954",
+        "result_housenumber": "129",
+        "result_name": "Rue Belliard",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.33561, 48.896346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Cavé (11 rue)",
+        "Arrondissement": 75018,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Cavé (11 rue), Paris",
+        "result_label": "11 Rue Cave 75018 Paris",
+        "result_score": 0.63,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270718308",
+        "result_housenumber": "11",
+        "result_name": "Rue Cave",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.355218, 48.886718]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Championnet (69 rue)",
+        "Arrondissement": 75018,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Championnet (69 rue), Paris",
+        "result_label": "69 Rue Championnet 75018 Paris",
+        "result_score": 0.71,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270707236",
+        "result_housenumber": "69",
+        "result_name": "Rue Championnet",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.345136, 48.89575]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Charles Hermite (4 rue)",
+        "Arrondissement": 75018,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Charles Hermite (4 rue), Paris",
+        "result_label": "4 Rue Charles Hermite 75018 Paris",
+        "result_score": 0.72,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270705251",
+        "result_housenumber": "4",
+        "result_name": "Rue Charles Hermite",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.36866, 48.899893]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Clignancourt (61 rue de)",
+        "Arrondissement": 75018,
+        "Elémentaire": 18,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Clignancourt (61 rue de), Paris",
+        "result_label": "61 Rue de Clignancourt 75018 Paris",
+        "result_score": 0.74,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270716261",
+        "result_housenumber": "61",
+        "result_name": "Rue de Clignancourt",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.347795, 48.887925]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Cugnot (30 rue)",
+        "Arrondissement": 75018,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Cugnot (30 rue), Paris",
+        "result_label": "30 Rue Cugnot 75018 Paris",
+        "result_score": 0.65,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270710413",
+        "result_housenumber": "30",
+        "result_name": "Rue Cugnot",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.364635, 48.892682]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Doudeauville (7 rue)",
+        "Arrondissement": 75018,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Doudeauville (7 rue), Paris",
+        "result_label": "7 Rue Doudeauville 75018 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270714889",
+        "result_housenumber": "7",
+        "result_name": "Rue Doudeauville",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.358736, 48.888871]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Evangile (33-35 rue de l')",
+        "Arrondissement": 75018,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Evangile (33-35 rue de l'), Paris",
+        "result_label": "35 Rue de l'Évangile 75018 Paris",
+        "result_score": 0.66,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270708813",
+        "result_housenumber": "35",
+        "result_name": "Rue de l'Évangile",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.365278, 48.894071]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Ferdinand Flocon (5 rue)",
+        "Arrondissement": 75018,
+        "Elémentaire": 26,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Ferdinand Flocon (5 rue), Paris",
+        "result_label": "5 Rue Ferdinand Flocon 75018 Paris",
+        "result_score": 0.73,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270711508",
+        "result_housenumber": "5",
+        "result_name": "Rue Ferdinand Flocon",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.34575, 48.891362]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Fernand Labori (19 rue)",
+        "Arrondissement": 75018,
+        "Elémentaire": 14,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Fernand Labori (19 rue), Paris",
+        "result_label": "19 Rue Fernand Labori 75018 Paris",
+        "result_score": 0.72,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270705449",
+        "result_housenumber": "19",
+        "result_name": "Rue Fernand Labori",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.342241, 48.899112]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Françoise d'Orléac A (8 place)",
+        "Arrondissement": 75018,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Françoise d'Orléac A (8 place), Paris",
+        "result_label": "8 Place de la Chapelle 75018 Paris",
+        "result_score": 0.33,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270721659",
+        "result_housenumber": "8",
+        "result_name": "Place de la Chapelle",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.360563, 48.884854]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Françoise d'Orléac B (8 place)",
+        "Arrondissement": 75018,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Françoise d'Orléac B (8 place), Paris",
+        "result_label": "Voie Communale B 75018 Paris",
+        "result_score": 0.26,
+        "result_type": "locality",
+        "result_id": "75118_XXXX_5f75a7",
+        "result_housenumber": null,
+        "result_name": "Voie Communale B",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.338056, 48.887987]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Guadeloupe (2 rue de la)",
+        "Arrondissement": 75018,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Guadeloupe (2 rue de la), Paris",
+        "result_label": "2 Rue de la Guadeloupe 75018 Paris",
+        "result_score": 0.72,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270712498",
+        "result_housenumber": "2",
+        "result_name": "Rue de la Guadeloupe",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.362625, 48.890753]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Gustave Rouanet (7 rue)",
+        "Arrondissement": 75018,
+        "Elémentaire": 26,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Gustave Rouanet (7 rue), Paris",
+        "result_label": "7 Rue Gustave Rouanet 75018 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270706921",
+        "result_housenumber": "7",
+        "result_name": "Rue Gustave Rouanet",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.340126, 48.896347]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Maurice Genevoix (3 rue)",
+        "Arrondissement": 75018,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Maurice Genevoix (3 rue), Paris",
+        "result_label": "3 Rue Maurice Genevoix 75018 Paris",
+        "result_score": 0.72,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270708835",
+        "result_housenumber": "3",
+        "result_name": "Rue Maurice Genevoix",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.360447, 48.894464]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Oran (18 rue d')",
+        "Arrondissement": 75018,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Oran (18 rue d'), Paris",
+        "result_label": "18 Rue d'Oran 75018 Paris",
+        "result_score": 0.67,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270714952",
+        "result_housenumber": "18",
+        "result_name": "Rue d'Oran",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.353065, 48.889027]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Pajol (11 rue)",
+        "Arrondissement": 75018,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Pajol (11 rue), Paris",
+        "result_label": "11 Rue Pajol 75018 Paris",
+        "result_score": 0.64,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270720746",
+        "result_housenumber": "11",
+        "result_name": "Rue Pajol",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.360584, 48.885501]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Philippe de Girard (58 rue)",
+        "Arrondissement": 75018,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Philippe de Girard (58 rue), Paris",
+        "result_label": "58 Rue Philippe de Girard 75018 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270719103",
+        "result_housenumber": "58",
+        "result_name": "Rue Philippe de Girard",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.361156, 48.886373]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Pierre Budin (5 rue)",
+        "Arrondissement": 75018,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Pierre Budin (5 rue), Paris",
+        "result_label": "5 Rue Pierre Budin 75018 Paris",
+        "result_score": 0.7,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270713775",
+        "result_housenumber": "5",
+        "result_name": "Rue Pierre Budin",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.352722, 48.889684]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Poissonniers (142)",
+        "Arrondissement": 75018,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Poissonniers (142), Paris",
+        "result_label": "142 Rue des Poissonniers 75018 Paris",
+        "result_score": 0.56,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270706521",
+        "result_housenumber": "142",
+        "result_name": "Rue des Poissonniers",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.352815, 48.896905]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Richomme (9 rue)",
+        "Arrondissement": 75018,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Richomme (9 rue), Paris",
+        "result_label": "9 Rue Richomme 75018 Paris",
+        "result_score": 0.66,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000331929134",
+        "result_housenumber": "9",
+        "result_name": "Rue Richomme",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.352132, 48.886399]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Sainte Isaure (18 rue)",
+        "Arrondissement": 75018,
+        "Elémentaire": 18,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Sainte Isaure (18 rue), Paris",
+        "result_label": "18 Rue Sainte-Isaure 75018 Paris",
+        "result_score": 0.73,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270708933",
+        "result_housenumber": "18",
+        "result_name": "Rue Sainte-Isaure",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.344427, 48.894154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Simplon (14, rue du)",
+        "Arrondissement": 75018,
+        "Elémentaire": 14,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Simplon (14, rue du), Paris",
+        "result_label": "14 Rue du Simplon 75018 Paris",
+        "result_score": 0.69,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270709417",
+        "result_housenumber": "14",
+        "result_name": "Rue du Simplon",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.351183, 48.893603]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Torcy (5 rue de)",
+        "Arrondissement": 75018,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Torcy (5 rue de), Paris",
+        "result_label": "5 Rue de Torcy 75018 Paris",
+        "result_score": 0.67,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270712481",
+        "result_housenumber": "5",
+        "result_name": "Rue de Torcy",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.364809, 48.891091]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "Vauvenargues (50 rue)",
+        "Arrondissement": 75018,
+        "Elémentaire": 26,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75018,
+        "ville": "Paris",
+        "adresse": "Vauvenargues (50 rue), Paris",
+        "result_label": "50 Rue Vauvenargues 75018 Paris",
+        "result_score": 0.71,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270707763",
+        "result_housenumber": "50",
+        "result_name": "Rue Vauvenargues",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.331626, 48.895328]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "43 rue Armand Carrel",
+        "Arrondissement": 75019,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "43 rue Armand Carrel, Paris",
+        "result_label": "43 Rue Armand Carrel 75019 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270725894",
+        "result_housenumber": "43",
+        "result_name": "Rue Armand Carrel",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.376662, 48.882658]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "132 rue Aubervilliers",
+        "Arrondissement": 75019,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "132 rue Aubervilliers, Paris",
+        "result_label": "132 Rue d'Aubervilliers 75019 Paris",
+        "result_score": 0.73,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270711413",
+        "result_housenumber": "132",
+        "result_name": "Rue d'Aubervilliers",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.369193, 48.891942]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "7 rue Barbanègre",
+        "Arrondissement": 75019,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "7 rue Barbanègre, Paris",
+        "result_label": "7 Rue Barbanegre 75019 Paris",
+        "result_score": 0.74,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270710840",
+        "result_housenumber": "7",
+        "result_name": "Rue Barbanegre",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.382858, 48.892135]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "8 rue Barbanègre",
+        "Arrondissement": 75019,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "8 rue Barbanègre, Paris",
+        "result_label": "8 Rue Barbanegre 75019 Paris",
+        "result_score": 0.74,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270710836",
+        "result_housenumber": "8",
+        "result_name": "Rue Barbanegre",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.383321, 48.89231]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "16 rue des Cheminets",
+        "Arrondissement": 75019,
+        "Elémentaire": 26,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "16 rue des Cheminets, Paris",
+        "result_label": "16 Rue des Cheminets 75019 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270716637",
+        "result_housenumber": "16",
+        "result_name": "Rue des Cheminets",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.398704, 48.887648]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "15 rue Colette Magny",
+        "Arrondissement": 75019,
+        "Elémentaire": 8,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "15 rue Colette Magny, Paris",
+        "result_label": "Rue Colette Magny 75019 Paris",
+        "result_score": 0.68,
+        "result_type": "street",
+        "result_id": "75119_XXXX_345ea4",
+        "result_housenumber": null,
+        "result_name": "Rue Colette Magny",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.376514, 48.894869]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "17 rue Colette Magny",
+        "Arrondissement": 75019,
+        "Elémentaire": 18,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "17 rue Colette Magny, Paris",
+        "result_label": "Rue Colette Magny 75019 Paris",
+        "result_score": 0.68,
+        "result_type": "street",
+        "result_id": "75119_XXXX_345ea4",
+        "result_housenumber": null,
+        "result_name": "Rue Colette Magny",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.376514, 48.894869]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "53 rue Emile Bollaert",
+        "Arrondissement": 75019,
+        "Elémentaire": 14,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "53 rue Emile Bollaert, Paris",
+        "result_label": "53 Rue Émile Bollaert 75019 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270705278",
+        "result_housenumber": "53",
+        "result_name": "Rue Émile Bollaert",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.375343, 48.89976]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "16 rue Eugénie Cotton",
+        "Arrondissement": 75019,
+        "Elémentaire": 26,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "16 rue Eugénie Cotton, Paris",
+        "result_label": "16 Rue Eugénie Cotton 75019 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000311439101",
+        "result_housenumber": "16",
+        "result_name": "Rue Eugénie Cotton",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.394113, 48.87813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "5-23 rue Eugénie Cotton",
+        "Arrondissement": 75019,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "5-23 rue Eugénie Cotton, Paris",
+        "result_label": "Rue Eugénie Cotton 75019 Paris",
+        "result_score": 0.65,
+        "result_type": "street",
+        "result_id": "75119_XXXX_2c6b3c",
+        "result_housenumber": null,
+        "result_name": "Rue Eugénie Cotton",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.394269, 48.878421]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "1 rue du Général Lasalle",
+        "Arrondissement": 75019,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "1 rue du Général Lasalle, Paris",
+        "result_label": "1 Rue du Général Lasalle 75019 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270740464",
+        "result_housenumber": "1",
+        "result_name": "Rue du Général Lasalle",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.381214, 48.874256]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "4 rue Goubet",
+        "Arrondissement": 75019,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "4 rue Goubet, Paris",
+        "result_label": "4 Rue Goubet 75019 Paris",
+        "result_score": 0.7,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270722419",
+        "result_housenumber": "4",
+        "result_name": "Rue Goubet",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.390241, 48.88452]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "10 rue Henri Noguères",
+        "Arrondissement": 75019,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "10 rue Henri Noguères, Paris",
+        "result_label": "10 Rue Henri Noguères 75019 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270722533",
+        "result_housenumber": "10",
+        "result_name": "Rue Henri Noguères",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.374408, 48.884842]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "160 avenue Jean Jaures",
+        "Arrondissement": 75019,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "160 avenue Jean Jaures, Paris",
+        "result_label": "160 Avenue Jean Jaurès 75019 Paris",
+        "result_score": 0.79,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270717386",
+        "result_housenumber": "160",
+        "result_name": "Avenue Jean Jaurès",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.388005, 48.887284]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "9 rue Jomard",
+        "Arrondissement": 75019,
+        "Elémentaire": 26,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "9 rue Jomard, Paris",
+        "result_label": "9 Rue Jomard 75019 Paris",
+        "result_score": 0.7,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270714260",
+        "result_housenumber": "9",
+        "result_name": "Rue Jomard",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.379576, 48.88971]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "40 bis rue Manin",
+        "Arrondissement": 75019,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "40 bis rue Manin, Paris",
+        "result_label": "40 BIS Rue Manin 75019 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270723345",
+        "result_housenumber": "40 BIS",
+        "result_name": "Rue Manin",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.378978, 48.879716]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "14 rue Mathis",
+        "Arrondissement": 75019,
+        "Elémentaire": 18,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "14 rue Mathis, Paris",
+        "result_label": "14 Rue Mathis 75019 Paris",
+        "result_score": 0.72,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270712429",
+        "result_housenumber": "14",
+        "result_name": "Rue Mathis",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.375486, 48.890867]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "105 bis rue l'Ourcq",
+        "Arrondissement": 75019,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "105 bis rue l'Ourcq, Paris",
+        "result_label": "105 BIS Rue de l'Ourcq 75019 Paris",
+        "result_score": 0.7,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270709312",
+        "result_housenumber": "105 BIS",
+        "result_name": "Rue de l'Ourcq",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.375061, 48.893551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "105 bis rue l'Ourcq",
+        "Arrondissement": 75019,
+        "Elémentaire": 26,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "105 bis rue l'Ourcq, Paris",
+        "result_label": "105 BIS Rue de l'Ourcq 75019 Paris",
+        "result_score": 0.7,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270709312",
+        "result_housenumber": "105 BIS",
+        "result_name": "Rue de l'Ourcq",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.375061, 48.893551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "9 rue Pierre Girard",
+        "Arrondissement": 75019,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "9 rue Pierre Girard, Paris",
+        "result_label": "9 Rue Pierre Girard 75019 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270719797",
+        "result_housenumber": "9",
+        "result_name": "Rue Pierre Girard",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.379601, 48.885913]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "11 rue Rampal",
+        "Arrondissement": 75019,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "11 rue Rampal, Paris",
+        "result_label": "11 Rue Rampal 75019 Paris",
+        "result_score": 0.71,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270741322",
+        "result_housenumber": "11",
+        "result_name": "Rue Rampal",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.379667, 48.873723]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "57 rue de Romainville",
+        "Arrondissement": 75019,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "57 rue de Romainville, Paris",
+        "result_label": "57 Rue de Romainville 75019 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270735333",
+        "result_housenumber": "57",
+        "result_name": "Rue de Romainville",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.402997, 48.877419]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "59 rue de Romainville",
+        "Arrondissement": 75019,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "59 rue de Romainville, Paris",
+        "result_label": "59 Rue de Romainville 75019 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270735334",
+        "result_housenumber": "59",
+        "result_name": "Rue de Romainville",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.403219, 48.877377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "9 rue Tandou",
+        "Arrondissement": 75019,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "9 rue Tandou, Paris",
+        "result_label": "9 Rue Tandou 75019 Paris",
+        "result_score": 0.71,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270719799",
+        "result_housenumber": "9",
+        "result_name": "Rue Tandou",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.379175, 48.885997]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "16 rue Tandou",
+        "Arrondissement": 75019,
+        "Elémentaire": 14,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "16 rue Tandou, Paris",
+        "result_label": "16 Rue Tandou 75019 Paris",
+        "result_score": 0.72,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270719020",
+        "result_housenumber": "16",
+        "result_name": "Rue Tandou",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.379949, 48.886148]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "17 rue de Tanger",
+        "Arrondissement": 75019,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "17 rue de Tanger, Paris",
+        "result_label": "17 Rue de Tanger 75019 Paris",
+        "result_score": 0.74,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270719853",
+        "result_housenumber": "17",
+        "result_name": "Rue de Tanger",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.368113, 48.885628]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "41 rue Tanger",
+        "Arrondissement": 75019,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "41 rue Tanger, Paris",
+        "result_label": "41 Rue de Tanger 75019 Paris",
+        "result_score": 0.64,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270716753",
+        "result_housenumber": "41",
+        "result_name": "Rue de Tanger",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.370231, 48.887761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "41 rue Tanger",
+        "Arrondissement": 75019,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75019,
+        "ville": "Paris",
+        "adresse": "41 rue Tanger, Paris",
+        "result_label": "41 Rue de Tanger 75019 Paris",
+        "result_score": 0.64,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270716753",
+        "result_housenumber": "41",
+        "result_name": "Rue de Tanger",
+        "result_street": null,
+        "result_postcode": 75019,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.370231, 48.887761]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "12 Allée Alquier Debrousse",
+        "Arrondissement": 75020,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "12 Allée Alquier Debrousse, Paris",
+        "result_label": "12 Allée Alquier-Débrousse 75020 Paris",
+        "result_score": 0.79,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270766362",
+        "result_housenumber": "12",
+        "result_name": "Allée Alquier-Débrousse",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.408195, 48.861246]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "103-111 rue des Amandiers",
+        "Arrondissement": 75020,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "103-111 rue des Amandiers, Paris",
+        "result_label": "111 Rue des Amandiers 75020 Paris",
+        "result_score": 0.69,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270753592",
+        "result_housenumber": "111",
+        "result_name": "Rue des Amandiers",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.388506, 48.867938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "104 rue de Belleville",
+        "Arrondissement": 75020,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "104 rue de Belleville, Paris",
+        "result_label": "104 Rue de Belleville 75020 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270740425",
+        "result_housenumber": "104",
+        "result_name": "Rue de Belleville",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.386624, 48.874452]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "236 rue de Belleville",
+        "Arrondissement": 75020,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "236 rue de Belleville, Paris",
+        "result_label": "236 Rue de Belleville 75020 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270738591",
+        "result_housenumber": "236",
+        "result_name": "Rue de Belleville",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.398164, 48.875358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "18 rue du Clos",
+        "Arrondissement": 75020,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "18 rue du Clos, Paris",
+        "result_label": "18 Rue du Clos 75020 Paris",
+        "result_score": 0.73,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270773681",
+        "result_housenumber": "18",
+        "result_name": "Rue du Clos",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.40706, 48.85722]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "51 Boulevard Davout",
+        "Arrondissement": 75020,
+        "Elémentaire": 14,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "51 Boulevard Davout, Paris",
+        "result_label": "51 Boulevard Davout 75020 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270784535",
+        "result_housenumber": "51",
+        "result_name": "Boulevard Davout",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.410835, 48.851387]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "31 rue Etienne Dolet",
+        "Arrondissement": 75020,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "31 rue Etienne Dolet, Paris",
+        "result_label": "31 Rue Étienne Dolet 75020 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270753636",
+        "result_housenumber": "31",
+        "result_name": "Rue Étienne Dolet",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.385352, 48.868147]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "4 rue Eugene Reisz",
+        "Arrondissement": 75020,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "4 rue Eugene Reisz, Paris",
+        "result_label": "4 Rue Eugène Reisz 75020 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270774600",
+        "result_housenumber": "4",
+        "result_name": "Rue Eugène Reisz",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.411076, 48.856758]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "16 rue Julien Lacroix",
+        "Arrondissement": 75020,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "16 rue Julien Lacroix, Paris",
+        "result_label": "16 Rue Julien Lacroix 75020 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270750571",
+        "result_housenumber": "16",
+        "result_name": "Rue Julien Lacroix",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.385602, 48.869469]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "10 rue Le Vau",
+        "Arrondissement": 75020,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "10 rue Le Vau, Paris",
+        "result_label": "10 Rue le Vau 75020 Paris",
+        "result_score": 0.71,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270755382",
+        "result_housenumber": "10",
+        "result_name": "Rue le Vau",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.411145, 48.866983]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "20 rue Le Vau",
+        "Arrondissement": 75020,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "20 rue Le Vau, Paris",
+        "result_label": "20 Rue le Vau 75020 Paris",
+        "result_score": 0.73,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270754458",
+        "result_housenumber": "20",
+        "result_name": "Rue le Vau",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.411208, 48.86754]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "1 rue Levert",
+        "Arrondissement": 75020,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "1 rue Levert, Paris",
+        "result_label": "1 Rue Levert 75020 Paris",
+        "result_score": 0.71,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270742980",
+        "result_housenumber": "1",
+        "result_name": "Rue Levert",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.38963, 48.873069]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "42 rue de la Mare",
+        "Arrondissement": 75020,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "42 rue de la Mare, Paris",
+        "result_label": "42 Rue de la Mare 75020 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270746689",
+        "result_housenumber": "42",
+        "result_name": "Rue de la Mare",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.389959, 48.871094]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "20 rue Maryse Hilsz",
+        "Arrondissement": 75020,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "20 rue Maryse Hilsz, Paris",
+        "result_label": "20 Rue Maryse Hilsz 75020 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270786143",
+        "result_housenumber": "20",
+        "result_name": "Rue Maryse Hilsz",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.412793, 48.850772]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "5 rue Mouraud",
+        "Arrondissement": 75020,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "5 rue Mouraud, Paris",
+        "result_label": "5 Rue Mouraud 75020 Paris",
+        "result_score": 0.71,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000331929040",
+        "result_housenumber": "5",
+        "result_name": "Rue Mouraud",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.407777, 48.854708]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "22 rue Olivier Métra",
+        "Arrondissement": 75020,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "22 rue Olivier Métra, Paris",
+        "result_label": "22 Rue Olivier Métra 75020 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270742946",
+        "result_housenumber": "22",
+        "result_name": "Rue Olivier Métra",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.394335, 48.872899]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "24 rue Olivier Métra",
+        "Arrondissement": 75020,
+        "Elémentaire": 14,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "24 rue Olivier Métra, Paris",
+        "result_label": "24 Rue Olivier Métra 75020 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270742947",
+        "result_housenumber": "24",
+        "result_name": "Rue Olivier Métra",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.394257, 48.873008]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "32/34 rue Olivier Métra",
+        "Arrondissement": 75020,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "32/34 rue Olivier Métra, Paris",
+        "result_label": "Rue Olivier Métra 75020 Paris",
+        "result_score": 0.63,
+        "result_type": "street",
+        "result_id": "75120_6891_68d7d1",
+        "result_housenumber": null,
+        "result_name": "Rue Olivier Métra",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.393873, 48.87328]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "166 rue Pelleport",
+        "Arrondissement": 75020,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "166 rue Pelleport, Paris",
+        "result_label": "166 Rue Pelleport 75020 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270742002",
+        "result_housenumber": "166",
+        "result_name": "Rue Pelleport",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.397987, 48.873377]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "4 rue Pierre Foncin",
+        "Arrondissement": 75020,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "4 rue Pierre Foncin, Paris",
+        "result_label": "4 Rue Pierre Foncin 75020 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270746557",
+        "result_housenumber": "4",
+        "result_name": "Rue Pierre Foncin",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.409383, 48.871347]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "8 rue Pierre Foncin",
+        "Arrondissement": 75020,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "8 rue Pierre Foncin, Paris",
+        "result_label": "8 Rue Pierre Foncin 75020 Paris",
+        "result_score": 0.75,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270746558",
+        "result_housenumber": "8",
+        "result_name": "Rue Pierre Foncin",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.409702, 48.871358]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "54 rue Planchat",
+        "Arrondissement": 75020,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "54 rue Planchat, Paris",
+        "result_label": "54 Rue Planchât 75020 Paris",
+        "result_score": 0.74,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270775550",
+        "result_housenumber": "54",
+        "result_name": "Rue Planchât",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.396469, 48.855971]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "97 rue des Pyrénées",
+        "Arrondissement": 75020,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "97 rue des Pyrénées, Paris",
+        "result_label": "97 Rue des Pyrénées 75020 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270777308",
+        "result_housenumber": "97",
+        "result_name": "Rue des Pyrénées",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.405253, 48.855032]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "291 rue des Pyrénées",
+        "Arrondissement": 75020,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "291 rue des Pyrénées, Paris",
+        "result_label": "291 Rue des Pyrénées 75020 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270750498",
+        "result_housenumber": "291",
+        "result_name": "Rue des Pyrénées",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.394867, 48.869301]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "293 rue des Pyrénées",
+        "Arrondissement": 75020,
+        "Elémentaire": 20,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "293 rue des Pyrénées, Paris",
+        "result_label": "293 Rue des Pyrénées 75020 Paris",
+        "result_score": 0.78,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270750500",
+        "result_housenumber": "293",
+        "result_name": "Rue des Pyrénées",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.394918, 48.869368]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "51 rue Ramponeau",
+        "Arrondissement": 75020,
+        "Elémentaire": 14,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "51 rue Ramponeau, Paris",
+        "result_label": "51 Rue Ramponeau 75020 Paris",
+        "result_score": 0.74,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270744743",
+        "result_housenumber": "51",
+        "result_name": "Rue Ramponeau",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.382312, 48.871904]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "14 rue Riblette",
+        "Arrondissement": 75020,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "14 rue Riblette, Paris",
+        "result_label": "14 Rue Riblette 75020 Paris",
+        "result_score": 0.73,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270768578",
+        "result_housenumber": "14",
+        "result_name": "Rue Riblette",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.40597, 48.859967]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "16 rue Riblette",
+        "Arrondissement": 75020,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "16 rue Riblette, Paris",
+        "result_label": "16 Rue Riblette 75020 Paris",
+        "result_score": 0.73,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270767792",
+        "result_housenumber": "16",
+        "result_name": "Rue Riblette",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.406557, 48.860066]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "29 rue du Télégraphe",
+        "Arrondissement": 75020,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "29 rue du Télégraphe, Paris",
+        "result_label": "29 Rue du Télégraphe 75020 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270741995",
+        "result_housenumber": "29",
+        "result_name": "Rue du Télégraphe",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.399167, 48.873309]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "9 rue des Tourelles",
+        "Arrondissement": 75020,
+        "Elémentaire": 6,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "9 rue des Tourelles, Paris",
+        "result_label": "9 Rue des Tourelles 75020 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270740327",
+        "result_housenumber": "9",
+        "result_name": "Rue des Tourelles",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.404084, 48.874702]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Adresse": "38 rue de Tourtille",
+        "Arrondissement": 75020,
+        "Elémentaire": 12,
+        "Collège": 0,
+        "Lycée": 0,
+        "code_postal": 75020,
+        "ville": "Paris",
+        "adresse": "38 rue de Tourtille, Paris",
+        "result_label": "38 Rue de Tourtille 75020 Paris",
+        "result_score": 0.76,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270744763",
+        "result_housenumber": "38",
+        "result_name": "Rue de Tourtille",
+        "result_street": null,
+        "result_postcode": 75020,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.380281, 48.872432]
+      }
+    }
+  ]
+}

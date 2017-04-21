@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Association": "Secours populaire",
+        "Adresse": "7 passage Ramey",
+        "Arrondissement": 75018,
+        "Ville": "Paris",
+        "result_label": "7 Passage Ramey 75018 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000311437747",
+        "result_housenumber": 7,
+        "result_name": "Passage Ramey",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.346607, 48.889907]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Association": "Paris Basket 18",
+        "Adresse": "15 passage Ramey",
+        "Arrondissement": 75018,
+        "Ville": "Paris",
+        "result_label": "15 Passage Ramey 75018 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000311437749",
+        "result_housenumber": 15,
+        "result_name": "Passage Ramey",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.347318, 48.889902]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Association": "Maison bleu Porte Montmartre",
+        "Adresse": "26 avenue de la Porte Montmartre",
+        "Arrondissement": 75018,
+        "Ville": "Paris",
+        "result_label": "26 Avenue de la Porte de Montmartre 75018 Paris",
+        "result_score": 0.87,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000354622053",
+        "result_housenumber": 26,
+        "result_name": "Avenue de la Porte de Montmartre",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.3359, 48.899915]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Association": "Le club Barbes",
+        "Adresse": "16 rue Ernestine",
+        "Arrondissement": 75018,
+        "Ville": "Paris",
+        "result_label": "16 Rue Ernestine 75018 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270714373",
+        "result_housenumber": 16,
+        "result_name": "Rue Ernestine",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.354636, 48.889527]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Association": "Ethnologues en herbe",
+        "Adresse": "10 rue des Gardes",
+        "Arrondissement": 75018,
+        "Ville": "Paris",
+        "result_label": "10 Rue des Gardes 75018 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270719925",
+        "result_housenumber": 10,
+        "result_name": "Rue des Gardes",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.352955, 48.885572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Association": "Espoir 18",
+        "Adresse": "44 rue Leon",
+        "Arrondissement": 75018,
+        "Ville": "Paris",
+        "result_label": "44 Rue Léon 75018 Paris",
+        "result_score": 0.95,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270713764",
+        "result_housenumber": 44,
+        "result_name": "Rue Léon",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.353471, 48.889803]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Association": "Ecole normale sociales - Espace Torcy",
+        "Adresse": "2 rue de Torcy",
+        "Arrondissement": 75018,
+        "Ville": "Paris",
+        "result_label": "2 Rue de Torcy 75018 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270711919",
+        "result_housenumber": 2,
+        "result_name": "Rue de Torcy",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.365241, 48.891176]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Association": "Compagnie Intermezzo",
+        "Adresse": "6 rue Laghouat",
+        "Arrondissement": 75018,
+        "Ville": "Paris",
+        "result_label": "6 Rue de Laghouat 75018 Paris",
+        "result_score": 0.77,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270716185",
+        "result_housenumber": 6,
+        "result_name": "Rue de Laghouat",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.355756, 48.888007]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Association": "Academie Football Paris 18",
+        "Adresse": "24 rue des tennis",
+        "Arrondissement": 75018,
+        "Ville": "Paris",
+        "result_label": "24 Rue des Tennis 75018 Paris",
+        "result_score": 0.94,
+        "result_type": "housenumber",
+        "result_id": "ADRNIVX_0000000270707778",
+        "result_housenumber": 24,
+        "result_name": "Rue des Tennis",
+        "result_street": null,
+        "result_postcode": 75018,
+        "result_city": "Paris",
+        "result_context": "75, Île-de-France",
+        "result_citycode": 75118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.329674, 48.895384]
+      }
+    }
+  ]
+}
